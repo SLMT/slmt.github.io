@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SLMT&#39;s Blog</title>
+  
+  <link href="/rss.xml" rel="self"/>
+  
+  <link href="http://www.slmt.tw/"/>
+  <updated>2016-06-16T06:07:09.003Z</updated>
+  <id>http://www.slmt.tw/</id>
+  
+  <author>
+    <name>SLMT</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo-blog</title>
+    <link href="http://www.slmt.tw/2016/06/15/hexo-blog/"/>
+    <id>http://www.slmt.tw/2016/06/15/hexo-blog/</id>
+    <published>2016-06-15T14:31:18.000Z</published>
+    <updated>2016-06-16T06:07:09.003Z</updated>
+    
+    <content type="html">&lt;p&gt;我又換新部落格啦！這次 Static Pages Generator 改用 &lt;a href=&quot;https://hexo.io/zh-tw/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;，原因主要為：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hexo 以 Node.js 撰寫&lt;/li&gt;
+&lt;li&gt;Hexo 中文資源比較多可以參考 (使用者大多為華人)&lt;/li&gt;
+&lt;li&gt;Hexo 是台灣人 &lt;a href=&quot;https://zespia.tw/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tommy Chen&lt;/a&gt; 開發的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;主題&quot;&gt;&lt;a href=&quot;#主題&quot; class=&quot;headerlink&quot; title=&quot;主題&quot;&gt;&lt;/a&gt;主題&lt;/h2&gt;&lt;p&gt;因為我一直都沒有自己很喜歡的主題，所以這次決定來自己寫一個。&lt;/p&gt;
+&lt;p&gt;這次主要的概念是簡單明瞭，又要 responsive。因此就製作出了現在看到的這個部落格風格。&lt;/p&gt;
+&lt;p&gt;如果想要參考我自己撰寫的程式碼，可以到我的 Github Repository 參考：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/SLMT/slmt.github.io/tree/source-code&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/SLMT/slmt.github.io/tree/source-code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;雖然這個風格很容易寫就是了XD&lt;/p&gt;
+&lt;p&gt;這個風格主要使用了以下這些 library：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://purecss.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Pure CSS&lt;/a&gt; - 一個極輕量的 responsive library。主要是為了上面的 navigation bar。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fontawesome.io/?utm_source=hackernewsletter&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Font Awesome&lt;/a&gt; - 一個整合各種實用 icon 的字型。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.google.com/fonts/earlyaccess&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google Font - Early Access&lt;/a&gt; - Google 提供各種字型的平台(提早釋出)，為了&lt;a href=&quot;https://www.google.com/get/noto/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;思源黑體&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;發布於-Github-Pages&quot;&gt;&lt;a href=&quot;#發布於-Github-Pages&quot; class=&quot;headerlink&quot; title=&quot;發布於 Github Pages&quot;&gt;&lt;/a&gt;發布於 Github Pages&lt;/h2&gt;&lt;p&gt;為了能夠方便地將 blog 發布於 Github pages，同時又為了能夠使用自己的 &lt;code&gt;www.slmt.tw&lt;/code&gt; 這個網址。花了一點時間研究 Hexo 內建的套件與 Github Pages 的設定。最後發現下面這個網頁的教學還蠻有用的，如果有興趣的話可以參考：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://readorskip.com/2015/06/08/Using-own-domain-with-github-and-hexo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://readorskip.com/2015/06/08/Using-own-domain-with-github-and-hexo/&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我又換新部落格啦！這次 Static Pages Generator 改用 &lt;a href=&quot;https://hexo.io/zh-tw/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;，原因主要為：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hexo 以
+    
+    </summary>
+    
+      <category term="Building Blog" scheme="http://www.slmt.tw/categories/building-blog/"/>
+    
+      <category term="Hexo" scheme="http://www.slmt.tw/categories/building-blog/hexo/"/>
+    
+    
+      <category term="blog" scheme="http://www.slmt.tw/tags/blog/"/>
+    
+      <category term="hexo" scheme="http://www.slmt.tw/tags/hexo/"/>
+    
+      <category term="welcome" scheme="http://www.slmt.tw/tags/welcome/"/>
+    
+      <category term="chinese" scheme="http://www.slmt.tw/tags/chinese/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BambooFox 第三堂社課心得</title>
+    <link href="http://www.slmt.tw/2015/10/30/bamboofox-club-03/"/>
+    <id>http://www.slmt.tw/2015/10/30/bamboofox-club-03/</id>
+    <published>2015-10-29T16:00:00.000Z</published>
+    <updated>2016-06-16T06:07:09.000Z</updated>
+    
+    <content type="html">&lt;p&gt;這次的課程接續上次組合語言的內容，主要在談 x86 架構下的組合語言，以及常見的 Buffer Overflow 漏洞。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;課程內容分享&quot;&gt;&lt;a href=&quot;#課程內容分享&quot; class=&quot;headerlink&quot; title=&quot;課程內容分享&quot;&gt;&lt;/a&gt;課程內容分享&lt;/h2&gt;&lt;h3 id=&quot;組合語言&quot;&gt;&lt;a href=&quot;#組合語言&quot; class=&quot;headerlink&quot; title=&quot;組合語言&quot;&gt;&lt;/a&gt;組合語言&lt;/h3&gt;&lt;p&gt;一開始先回顧一下 x86 下的架構，包含 registers 與一些 conditional flags 等等。 接著複習了一些 x86 架構下常見的組合語言指令。 這邊有提到 Intel 與 AT&amp;amp;T 兩種 style 不同的寫法，並介紹一些之間的差異等等。&lt;/p&gt;
+&lt;p&gt;最重要的資訊，我想應該就是了解如何做 system call 吧！&lt;/p&gt;
+&lt;p&gt;System call 是一種讓你程式跟作業系統 (Opearating System, OS) 溝通的管道。 舉凡要進行任何需要 OS 幫忙的工作，都要透過 system call。 而在組合語言之中，想要進行 system call，就要使用 interrept 的指令來暫時中斷程式，並轉交權限給 OS。 大概進行的 pattern 就如同下面所示：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;mov		eax, xxx	; 想要 OS 執行的 function 代碼&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mov		ebx, xxx	; function 的第一個參數&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mov		ecx, xxx	; function 的第二個參數&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mov		edx, xxx	; function 的第三個參數&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;int		0x80		; 進行 system call&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;一開始要先將一些參數存入 registers，&lt;code&gt;eax&lt;/code&gt; 要放你想要 OS 進行的 system call function 代碼。 例如你想要系統讀檔，就要放 3 (sys_read)。 然後，其他 registers，像是 &lt;code&gt;ebx&lt;/code&gt;, &lt;code&gt;ecx&lt;/code&gt;, &lt;code&gt;edx&lt;/code&gt;, &lt;code&gt;esx&lt;/code&gt;, &lt;code&gt;edi&lt;/code&gt; 則是要放呼叫該動作的參數。 例如剛剛說的讀檔，就必須要分別在 &lt;code&gt;ebx&lt;/code&gt;、&lt;code&gt;ecx&lt;/code&gt; 與 &lt;code&gt;edx&lt;/code&gt; 放入 file descriptor、buffer pointer 與想要讀取的大小。 最後再執行 &lt;code&gt;int 0x80&lt;/code&gt; 指令來進行 system call。&lt;/p&gt;
+&lt;p&gt;詳細每個 register 在進行 system call 所需要放的參數可以在 &lt;a href=&quot;http://docs.cs.up.ac.za/programming/asm/derick_tut/syscalls.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;這個表&lt;/a&gt; 找到。&lt;/p&gt;
+&lt;p&gt;我想學這個的目的，除了是為了要能夠對程式做逆向工程之外，也是為了要在之後 inject (注入) shellcode 而使用。 甚至是做更進一步的攻擊。 算是還挺實用的。&lt;/p&gt;
+&lt;h3 id=&quot;Buffer-Overflow&quot;&gt;&lt;a href=&quot;#Buffer-Overflow&quot; class=&quot;headerlink&quot; title=&quot;Buffer Overflow&quot;&gt;&lt;/a&gt;Buffer Overflow&lt;/h3&gt;&lt;p&gt;Buffer overflow 是 C/C++ 常見的漏洞。 只要你的程式之中使用到了陣列或指標，並配合呼叫了不安全的 function，就有可能有潛在的問題。&lt;/p&gt;
+&lt;p&gt;例如下面這段 code：&lt;/p&gt;
+&lt;figure class=&quot;highlight c++&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;char&lt;/span&gt; input[&lt;span class=&quot;number&quot;&gt;50&lt;/span&gt;];&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;scanf&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&quot;%s&quot;&lt;/span&gt;, input);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;這段看起來極其平淡，且在一開始程設課就學過的 code，潛藏著極大的危機存在。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;scanf&lt;/code&gt; 不會檢查使用者輸入的長度，也不會知道 &lt;code&gt;input&lt;/code&gt; 這個陣列有多大，除非遇到特定的字元，不然他就會持續性地一直讀取輸入值。 而當使用者輸入的長度超過了 &lt;code&gt;input&lt;/code&gt; 的空間，也就是在上例中超過 49 個字元 (最後一個字是 &lt;code&gt;\0&lt;/code&gt;)，就會發生 overflow 的情況。 一般來說 overflow 只會讓程式出現 &lt;code&gt;segmentation fault&lt;/code&gt; 而已，可是有心人士可以利用這個來控制程式的運作方向。&lt;/p&gt;
+&lt;p&gt;區域變數通常是放在 stack 中，stack 除了變數之外，還會放著各式各樣其他的資訊。 像是 function arguments，stack frame pointer，還有最重要的 saved eip。 EIP 是 x86 系統下一個特殊的 register，這個 register 不能直接寫入，只能透過特殊指令來進行修改。 EIP 其重要之處，就是在他負責告訴 CPU，下一個要執行的指令在哪裡。&lt;/p&gt;
+&lt;p&gt;因此掌控了 EIP，就掌控了整個程式走向。&lt;/p&gt;
+&lt;p&gt;想想前面提到的 buffer overflow，到底多出的部分跑哪去了？基本上就是跑到外面的地方，覆蓋掉 stack 上的其他資訊。&lt;/p&gt;
+&lt;p&gt;剛剛提到了 stack 有放 saved eip。 當程式呼叫 function 的時候，為了要能夠在 function 結束之後，跳回到原本的位置，會將回去預計繼續執行的程式碼位址暫存在 stack 中，這就是 saved eip。&lt;/p&gt;
+&lt;p&gt;利用 buffer overflow，你就會有機會覆寫掉 saved eip 的數值。 只要控制得好，就能將你想要讓程式執行的程式碼位址覆蓋掉 saved eip。 當程式 return 的時候，就會拿出你預先設計的數值，並跳轉到你希望的位置繼續執行程式。 這個時候就可以做很多有趣的事情，例如讓程式執行你預先塞好的程式碼，然後呼叫 shell 等等。&lt;/p&gt;
+&lt;p&gt;這也是到現今為止還是常常能看見的大洞。 不過編譯器其實也有在進步，為了這防止駭客攻擊這個部分，使用了各式各樣的技巧來保護。 當然駭客也不是笨蛋，也想出了很多方法繞過這些機制。 到現在還沒有一定的勝負。&lt;/p&gt;
+&lt;h2 id=&quot;練習題的收穫&quot;&gt;&lt;a href=&quot;#練習題的收穫&quot; class=&quot;headerlink&quot; title=&quot;練習題的收穫&quot;&gt;&lt;/a&gt;練習題的收穫&lt;/h2&gt;&lt;p&gt;今天主要的練習是 &lt;a href=&quot;http://train.cs.nctu.edu.tw/problems/1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;這題&lt;/a&gt; ，重點在於 buffer overflow 的觀念。 讓正確的 buffer overflow，找到如何覆蓋 saved eip，找到程式應該要執行到哪，以及要怎麼避免程式搗亂的行為。&lt;/p&gt;
+&lt;p&gt;這題今天學到最有用的知識有兩點：&lt;/p&gt;
+&lt;h3 id=&quot;1-scanf-終止條件&quot;&gt;&lt;a href=&quot;#1-scanf-終止條件&quot; class=&quot;headerlink&quot; title=&quot;1. scanf 終止條件&quot;&gt;&lt;/a&gt;1. &lt;code&gt;scanf&lt;/code&gt; 終止條件&lt;/h3&gt;&lt;p&gt;這題有個部分會檢查你輸入 buffer 的長度，檢查的方式是利用 &lt;code&gt;strlen&lt;/code&gt;，並且會對你的 buffer 做攪亂的動作。 這邊我們可以讓程式只攪亂部分的 buffer，或甚至完全繞過。 重點在於讓程式以為 buffer 很短，但是其實比他知道的大很多。&lt;/p&gt;
+&lt;p&gt;但是要怎麼做呢？ &lt;code&gt;strlen&lt;/code&gt; 的檢查中止條件是看到 &lt;code&gt;\0&lt;/code&gt; 就停下來。 換句話說，&lt;code&gt;\0&lt;/code&gt; 之前的內容都會被當作字串的一部分，之後的東西就不管了。 這邊我一開始有想到在 buffer 內插入 &lt;code&gt;\0&lt;/code&gt; 來防止程式攪亂我的 payload。 但是我馬上想到了，&lt;code&gt;scanf&lt;/code&gt; 應該會把 &lt;code&gt;\0&lt;/code&gt; 也當作終止條件，所以我想這招應該沒用。&lt;/p&gt;
+&lt;p&gt;可是在卡了許久之後，經過前輩提示，看了看提示的投影片，才知道原來 &lt;code&gt;scanf&lt;/code&gt; 的中止條件更狹隘。 他們只會在遇到空白或是換行字元才停，&lt;code&gt;\0&lt;/code&gt; 也會被當成字串的一部分吃進來。 這還真是大洞啊！ 我完全意想不到這種我以為該有的條件竟然沒有！ 看來 C\C++ 比我想像的更危機四伏。&lt;/p&gt;
+&lt;h3 id=&quot;2-cat&quot;&gt;&lt;a href=&quot;#2-cat&quot; class=&quot;headerlink&quot; title=&quot;2. cat -&quot;&gt;&lt;/a&gt;2. &lt;code&gt;cat -&lt;/code&gt;&lt;/h3&gt;&lt;p&gt;這個也很有趣。 他們的程式是放在他們專有的機器上執行，而我們必須要透過網路連線才有辦法跟程式溝通。 通常會使用 &lt;code&gt;nc&lt;/code&gt; (netcat) 進行。 當攻擊者取得 shell 之後，就可以拿到機器上的 flag。 不過雖然我將 payload 送過去之後，也成功呼叫出 shell 了。 可是遇到了一個很大的問題，就是我無法跟 shell 進行互動！ 因為我使用了 &lt;code&gt;cat payload | nc [IP] [Port]&lt;/code&gt; 的方式來將預先寫好的 input 傳過去，但是也封閉了我使用 &lt;code&gt;nc&lt;/code&gt; 進行溝通的道路。&lt;/p&gt;
+&lt;p&gt;正當我在想是否要自己寫 python code 來互動的時候，發現了一個更簡單的方式！&lt;/p&gt;
+&lt;p&gt;就是使用 &lt;code&gt;cat -&lt;/code&gt;！ &lt;code&gt;cat&lt;/code&gt; 指令會印出檔案的內容，後面接著檔案名稱。 那 &lt;code&gt;-&lt;/code&gt; 又是啥檔案？&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;-&lt;/code&gt; 代表的就是 standard input！ 也就是標準輸入 (通常是鍵盤)！&lt;/p&gt;
+&lt;p&gt;如果你有自己的 unix 環境可以試試看，使用 &lt;code&gt;cat -&lt;/code&gt; ，並輸入一些字元會發生甚麼事情。 你會發現它會將你輸入的東西直接 output 出來。&lt;/p&gt;
+&lt;p&gt;這就是我需要的啊！&lt;/p&gt;
+&lt;p&gt;我只要把上面的指令改成 &lt;code&gt;cat payload - | nc [IP] [Port]&lt;/code&gt;。 這樣 &lt;code&gt;cat&lt;/code&gt; 就會先將 payload 傳過去，然後再轉接 standrad input 給它。 這樣我就可以在取得 shell 之後，輸入指令給 &lt;code&gt;nc&lt;/code&gt; 傳送了！&lt;/p&gt;
+&lt;p&gt;這個算是我今天覺得最有用的技巧XD&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;這次的課程接續上次組合語言的內容，主要在談 x86 架構下的組合語言，以及常見的 Buffer Overflow 漏洞。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="CTF" scheme="http://www.slmt.tw/categories/ctf/"/>
+    
+      <category term="BambooFox" scheme="http://www.slmt.tw/categories/ctf/bamboofox/"/>
+    
+    
+      <category term="bamboofox" scheme="http://www.slmt.tw/tags/bamboofox/"/>
+    
+      <category term="ctf" scheme="http://www.slmt.tw/tags/ctf/"/>
+    
+      <category term="club" scheme="http://www.slmt.tw/tags/club/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BambooFox 第二堂社課心得</title>
+    <link href="http://www.slmt.tw/2015/10/16/bamboofox-club-02/"/>
+    <id>http://www.slmt.tw/2015/10/16/bamboofox-club-02/</id>
+    <published>2015-10-15T16:00:00.000Z</published>
+    <updated>2016-06-16T06:07:08.998Z</updated>
+    
+    <content type="html">&lt;p&gt;今天去了第二次交大 &lt;a href=&quot;https://bamboofox.torchpad.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;BambooFox&lt;/a&gt; 社課，這次內容主要在於 Reverse Engineering，以下紀錄了今天社課的要點。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;課程內容&quot;&gt;&lt;a href=&quot;#課程內容&quot; class=&quot;headerlink&quot; title=&quot;課程內容&quot;&gt;&lt;/a&gt;課程內容&lt;/h2&gt;&lt;p&gt;這次大概有三個部分。第一部分是在檢討上一次社課留給學生的練習題，第二部分則是在分享一些常用的工具，最後則是今天的主軸，&lt;strong&gt;逆向工程&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;如果各位想看投影片的話，只要到他們 &lt;a href=&quot;https://bamboofox.torchpad.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;官網&lt;/a&gt; 就可以找到每次社課的投影片以及錄影了。&lt;/p&gt;
+&lt;h3 id=&quot;第一部分：練習題&quot;&gt;&lt;a href=&quot;#第一部分：練習題&quot; class=&quot;headerlink&quot; title=&quot;第一部分：練習題&quot;&gt;&lt;/a&gt;第一部分：練習題&lt;/h3&gt;&lt;p&gt;我在上一篇有提過，Python 的 &lt;a href=&quot;https://docs.python.org/2/library/pickle.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;pickle module&lt;/a&gt; 存在著一個漏洞，會讓 object 在 deserialize 的時候執行預先設計好的程式碼。因此我們可以自己產生 serialize 後的 object，裡面插入我們想讓目標程式執行的程式碼。以達到取得目標機器上 shell 的目的。&lt;/p&gt;
+&lt;p&gt;各位如果有興趣的話，他們有把題目放到練習網站上，可以到下列網址玩玩看 (帳號可以免費申請)：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://140.113.194.85:3000/problems/8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://140.113.194.85:3000/problems/8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;這邊我提兩個很重要的工具：&lt;/p&gt;
+&lt;h4 id=&quot;NetCat&quot;&gt;&lt;a href=&quot;#NetCat&quot; class=&quot;headerlink&quot; title=&quot;NetCat&quot;&gt;&lt;/a&gt;NetCat&lt;/h4&gt;&lt;p&gt;&lt;code&gt;nc&lt;/code&gt; (NetCat) 是一個程式，linux 系統上面大多都有內建。它的功用是可以連到指定的 ip 與 port，並將使用者輸入的資料導向到目標伺服器上。然後把目標伺服器上回傳的結果導回我們的標準輸出 (通常是螢幕) 上。&lt;/p&gt;
+&lt;p&gt;這個東西真的很好用。以往如果我要跟一個伺服器溝通的話，都要寫一些程式來做 socket programming。可是有這東西的話，就完全不需要自己寫程式來做了！而且許多 CTF 競賽的程式都不是那種可以用像是 HTTP 或者 SSH Protocol 連上的東西，通常是單純以文字直接溝通的伺服器。因此 &lt;code&gt;nc&lt;/code&gt; 就可以幫助你連上這種程式。&lt;/p&gt;
+&lt;p&gt;另外還有一點很重要的是， &lt;code&gt;nc&lt;/code&gt; 不但可以主動連到其他伺服器，還可以被動式的開啟 socket 接收資料。這個功能也很常用！例如你利用某個漏洞進入了伺服器，但是你不一定可以看到你的程式碼的執行結果。這個時候就必須讓該伺服器把執行指令的結果，利用 &lt;code&gt;nc&lt;/code&gt; 吐回你的機器上。而你的機器上就自然而然需要開啟一個 socket 接收資訊囉！&lt;/p&gt;
+&lt;h4 id=&quot;pwntools&quot;&gt;&lt;a href=&quot;#pwntools&quot; class=&quot;headerlink&quot; title=&quot;pwntools&quot;&gt;&lt;/a&gt;pwntools&lt;/h4&gt;&lt;p&gt;上一篇文章也有提到 &lt;a href=&quot;http://pwntools.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;pwntools&lt;/a&gt;。這是一個專門用來打 CTF 用的 python module。&lt;/p&gt;
+&lt;p&gt;事實上，當你玩了一下這道題目之後，你大概會知道要怎麼取得 flag。可是接著很快就會發現，每個指令都要慢慢輸入真的是很麻煩。而且特別這題又有 RSA Key，慢慢複製輸入又會令人更不爽。所以你大概就會瞭解到這裡需要寫一個 script 來自動化整個過程。&lt;/p&gt;
+&lt;p&gt;pwntools 提供了很多方便的 function 來幫助你建立自動化的 script，目前最需要知道的就是 &lt;code&gt;send&lt;/code&gt; 跟 &lt;code&gt;recvuntil&lt;/code&gt;。用法可以查查 bamboofox 上一次社課的投影片，或者看看官方的說明文件。&lt;/p&gt;
+&lt;h3 id=&quot;第二部分：分享常用工具&quot;&gt;&lt;a href=&quot;#第二部分：分享常用工具&quot; class=&quot;headerlink&quot; title=&quot;第二部分：分享常用工具&quot;&gt;&lt;/a&gt;第二部分：分享常用工具&lt;/h3&gt;&lt;p&gt;這邊稍微介紹了一下電腦執行程式的架構，為下一部份舖梗。另外介紹了一些工具，主要是 vim 與 tmux。&lt;/p&gt;
+&lt;p&gt;這兩者的教學網路上很多，這邊就不贅述了。Google 一下就可以看到不少資源。我個人特別推 tmux，真的是很方便的工具。我因為研究的關係時常使用。如果你想要在同一個 terminal 上開多個分割視窗，或者你想要與伺服器中斷連線後，下一次進去能可以看到上一次的工作狀態，那 tmux 絕對是你的好選擇！&lt;/p&gt;
+&lt;h3 id=&quot;第三部分：逆向工程&quot;&gt;&lt;a href=&quot;#第三部分：逆向工程&quot; class=&quot;headerlink&quot; title=&quot;第三部分：逆向工程&quot;&gt;&lt;/a&gt;第三部分：逆向工程&lt;/h3&gt;&lt;p&gt;逆向工程是今天最主要的內容。不過重點大概就以下幾點：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;x86 系統架構&lt;/li&gt;
+&lt;li&gt;Intel x86 組合語言&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.hex-rays.com/products/ida/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;IDA Pro&lt;/a&gt; 的使用方式&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;另外還有講一個叫做 Immunity Debugger 的工具，不過我那部份聽得沒有很懂，而且後來也沒用到，所以這邊也就不提了。&lt;/p&gt;
+&lt;h4 id=&quot;組合語言&quot;&gt;&lt;a href=&quot;#組合語言&quot; class=&quot;headerlink&quot; title=&quot;組合語言&quot;&gt;&lt;/a&gt;組合語言&lt;/h4&gt;&lt;p&gt;這段的目標在於分析一個程式的行為。最直接的辦法就是把程式反組譯 (disassembly)，然後看看他的程式碼是怎麼跑的。反組譯得到的程式碼不會是 C 語言，而是很接近 CPU 執行方式的組合語言 (Assembly Language)。組合語言沒有 C 語言那麼容易看懂，而且隨著不同架構，組合語言的語法也會有些微不同。幸好大多數的概念都差不多，因此學過一種之後，其他種類也不會太難上手。&lt;/p&gt;
+&lt;p&gt;我之前在 PicoCTF 2013 有看過一本書，寫得還不錯，而且淺顯易懂。這邊將他們官方提供的電子版放在 &lt;a href=&quot;https://2013.picoctf.com/docs/asmhandout.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;這裡&lt;/a&gt; 讓各位下載。下載下來一看之後會發現頁數還不少，不過我覺得也不需要全部看完。大概前面三分之一看懂就好。後面的東西只要快速把各種指令看看就好。甚至可以也都不看後面的東西，等到真正遇到的時候再去查就好。&lt;/p&gt;
+&lt;h4 id=&quot;IDA-Pro&quot;&gt;&lt;a href=&quot;#IDA-Pro&quot; class=&quot;headerlink&quot; title=&quot;IDA Pro&quot;&gt;&lt;/a&gt;IDA Pro&lt;/h4&gt;&lt;p&gt;IDA Pro 是一個逆向工程的常用工具。這個工具到官網上可以抓到免費版，雖然功能有些殘缺，但是也大致夠用。大概你會發現最缺的功能就是不能看 64bit 的程式，不過除此之外都還好。&lt;/p&gt;
+&lt;p&gt;這個工具會幫你將程式轉為組合語言給你看，並且幫你建立一些 flow chart，以方便掌握程式的執行脈絡。事實上，以前我就有稍微用過這個程式，不過老實說一開始我也不知道該從哪裡看起。主要是因為通常程式反組譯之後得到的程式碼都非常多，第一眼看到就眼花撩亂。因此他們今天上課就提到，其實可以從 &lt;code&gt;.string&lt;/code&gt; 視窗開始研究。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;.string&lt;/code&gt; 視窗列出了這個程式被預先填入的字串常數。因為字串本來就是要顯示給使用者看的，所以字串都會完完整整地存在程式的某個位置。而這個時候，你就可以先看那些字串跟你要找的東西相關。例如你今天可能要找驗證密碼的程式碼，那這時候如果你看到了 &lt;code&gt;Sorry, password is wrong&lt;/code&gt;，你大概就可以知道這段話一定跟你要找的程式碼有關。IDA Pro 還有個很方便的功能，就是會幫你標出字串在哪段程式碼被使用到，因此你就可以跳到那段程式碼，來看看他是怎麼驗證的。&lt;/p&gt;
+&lt;p&gt;其他還有像是，會幫你標出 function 內的區域變數，另外也可以幫區塊與變數重新命名等等。善用的話就可以大大幫助逆向工程。&lt;/p&gt;
+&lt;h4 id=&quot;轉換成-C-Code&quot;&gt;&lt;a href=&quot;#轉換成-C-Code&quot; class=&quot;headerlink&quot; title=&quot;轉換成 C Code&quot;&gt;&lt;/a&gt;轉換成 C Code&lt;/h4&gt;&lt;p&gt;就算已經會組合語言，也會使用 IDA Pro，真正看下去的時候也不一定能很快上手。這邊有個很重要的概念在於，你要知道那些 C 語言的程式碼轉換後會變成甚麼樣的組合語言。今天上課他們有稍微提到常見的迴圈和 function call 會大概變成甚麼樣子。如果有稍微記得的話，對還原成 C 的時候會很有幫助。詳情也可以看看他們的投影片。&lt;/p&gt;
+&lt;p&gt;再來，就是要知道一些組合語言的潛規則。像是當你看到了下面這段程式碼：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;push ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;push ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;push ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;call ...&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;也就是一堆 &lt;code&gt;push&lt;/code&gt; 之後接著一個 &lt;code&gt;call&lt;/code&gt;，這其實就是在呼叫 function。&lt;code&gt;push&lt;/code&gt; 將呼叫 function 的參數存入 stack，&lt;code&gt;call&lt;/code&gt; 則是在讓程式的執行跳轉到 function 的程式碼執行。&lt;/p&gt;
+&lt;p&gt;而且事實上，並不是所有呼叫 function 的程式碼都長這樣，有的則是：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;mov    %eax,0x4(%esp)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mov    %ebx,(%esp)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;call   ...&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;code&gt;%eax&lt;/code&gt;、&lt;code&gt;%ebx&lt;/code&gt;、&lt;code&gt;%esp&lt;/code&gt; 都是 register。Register 是 CPU 之中用來暫存資料的空間。其中 &lt;code&gt;%esp&lt;/code&gt; 代表的是 stack 最頂層的位置。這一連串的 &lt;code&gt;mov&lt;/code&gt; 動作其實就等同於 &lt;code&gt;push&lt;/code&gt;，只是 &lt;code&gt;push&lt;/code&gt; 會移動 &lt;code&gt;%esp&lt;/code&gt;，&lt;code&gt;mov&lt;/code&gt; 不會移動。所以這一段程式碼其實跟上一段是差不多的行為。可是沒看過就會覺得怎麼怪怪的。&lt;/p&gt;
+&lt;p&gt;又或者你要知道，通常 function return 的時候，會把 return value 塞在 &lt;code&gt;%eax&lt;/code&gt; 裡面。因此時常在某些 function 回來之後，就會看到程式碼取出 &lt;code&gt;%eax&lt;/code&gt; 的值做其他事情。&lt;/p&gt;
+&lt;p&gt;很多規則都是需要多看幾次或者上網查過才會知道的。&lt;/p&gt;
+&lt;p&gt;最後最重要的是，耐心。程式碼一多起來看了就會很煩，所以一定要仔細地慢慢看。我個人會一邊看一邊試著把組語還原成 C 的程式碼，這樣我最後才能整理出這個程式的邏輯到底是如何。&lt;/p&gt;
+&lt;h4 id=&quot;逆向工程練習題&quot;&gt;&lt;a href=&quot;#逆向工程練習題&quot; class=&quot;headerlink&quot; title=&quot;逆向工程練習題&quot;&gt;&lt;/a&gt;逆向工程練習題&lt;/h4&gt;&lt;p&gt;逆向工程的部分他們也有提供練習題，有興趣的可以玩玩看：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows 程式題：&lt;a href=&quot;http://140.113.194.85:3000/problems/18&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://140.113.194.85:3000/problems/18&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux 程式題：&lt;a href=&quot;http://140.113.194.85:3000/problems/19&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://140.113.194.85:3000/problems/19&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上這幾題我都解出來了，如果想要討論的話可以留言討論XD&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天去了第二次交大 &lt;a href=&quot;https://bamboofox.torchpad.com/&quot;&gt;BambooFox&lt;/a&gt; 社課，這次內容主要在於 Reverse Engineering，以下紀錄了今天社課的要點。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="CTF" scheme="http://www.slmt.tw/categories/ctf/"/>
+    
+      <category term="BambooFox" scheme="http://www.slmt.tw/categories/ctf/bamboofox/"/>
+    
+    
+      <category term="bamboofox" scheme="http://www.slmt.tw/tags/bamboofox/"/>
+    
+      <category term="ctf" scheme="http://www.slmt.tw/tags/ctf/"/>
+    
+      <category term="club" scheme="http://www.slmt.tw/tags/club/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BambooFox 第一堂社課心得</title>
+    <link href="http://www.slmt.tw/2015/10/02/bamboofox-club-01/"/>
+    <id>http://www.slmt.tw/2015/10/02/bamboofox-club-01/</id>
+    <published>2015-10-01T16:00:00.000Z</published>
+    <updated>2016-06-16T06:07:08.995Z</updated>
+    
+    <content type="html">&lt;p&gt;今天去參加了交大 &lt;a href=&quot;https://bamboofox.torchpad.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;BambooFox&lt;/a&gt; 的第一堂社課，收穫不少。因此我想寫下一些參與的心得，並記錄一些學習到的技巧。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;其實很早以前我就一直對資訊安全方面的東西有興趣，最早可以追朔到我國中的時候，不過當時並不具備相關的知識。後來到大學之前，也有購買一些相關書籍。可惜大多數的書都只是教如何使用一些滲透軟體，技術面的東西對我來說又太深。最後就沒有繼續研究。&lt;/p&gt;
+&lt;p&gt;上大學後，開始學習程式語言與各種撰寫技巧，逐漸具備各式各樣的知識。最近想起了當年小時候對這塊的興趣。雖然現在已經是再一年就要脫離學生生活的碩二生，但是還是希望在這最後學期能夠真正地好好學好這些東西。&lt;/p&gt;
+&lt;p&gt;當然在這之前也並非沒有研究，只是因為無人指導，也不知道該從哪裡開始。直到今年參加了 &lt;a href=&quot;http://hitcon.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HITCON&lt;/a&gt; (台灣駭客年會)，才開始對這塊有初步的認識。在會中聽說交大今年要成立相關社團，而清大一直都沒有這種社團，所以我當然就很興奮地過去參加啦！&lt;/p&gt;
+&lt;h2 id=&quot;課程內容&quot;&gt;&lt;a href=&quot;#課程內容&quot; class=&quot;headerlink&quot; title=&quot;課程內容&quot;&gt;&lt;/a&gt;課程內容&lt;/h2&gt;&lt;p&gt;今天的課程內容主要涵蓋兩個部分，基本 &lt;strong&gt;Linux Shell 操作&lt;/strong&gt; 與 &lt;strong&gt;Python 基礎&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&quot;Linux-Shell-操作&quot;&gt;&lt;a href=&quot;#Linux-Shell-操作&quot; class=&quot;headerlink&quot; title=&quot;Linux Shell 操作&quot;&gt;&lt;/a&gt;Linux Shell 操作&lt;/h3&gt;&lt;p&gt;基本 Linux Shell 操作我其實算是挺熟悉了，畢竟平常實驗室的實驗都是在 CentOS 上跑，還寫過一點 bash script。而且網路上的資源也非常豐富，其中繁體中文資源以「&lt;a href=&quot;http://linux.vbird.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;鳥哥的Linux 私房菜&lt;/a&gt;」最為有名。不過還是有兩點值得一提的東西。&lt;/p&gt;
+&lt;h4 id=&quot;Kali-Linux&quot;&gt;&lt;a href=&quot;#Kali-Linux&quot; class=&quot;headerlink&quot; title=&quot;Kali Linux&quot;&gt;&lt;/a&gt;Kali Linux&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://www.kali.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Kali Linux&lt;/a&gt; 是 Linux 的其中一個分支，主要是基於 Debian 開發的作業系統。這個系統的特點在於，它具有大量的滲透測試工具，並提供了許多支援，因此成為了駭客們愛用的系統。HITCON 會場也可以看到許多人都在使用。&lt;/p&gt;
+&lt;p&gt;基本上這個系統確實非常方便，甚至對很多人來說都是不可或缺的工具。不過操作上跟一般的 Linux 系統沒甚麼太大的差別，所以也不會太難上手。&lt;/p&gt;
+&lt;h4 id=&quot;特殊-Bash-指令&quot;&gt;&lt;a href=&quot;#特殊-Bash-指令&quot; class=&quot;headerlink&quot; title=&quot;特殊 Bash 指令&quot;&gt;&lt;/a&gt;特殊 Bash 指令&lt;/h4&gt;&lt;p&gt;Shell 的使用算是學習 Linux 很重要的基礎，一般的操作很快就可以上手。不過很不錯的是，他們有教一些進階與特殊的用法。舉個例子來說，在 Bash 中使用 &lt;code&gt;$(...)&lt;/code&gt;，其中包含的指令就是會被執行，而輸出的東西則會變成變數。然後 &lt;code&gt;$0&lt;/code&gt; 這個變數通常指向 &lt;code&gt;bash&lt;/code&gt;。因此如果你讓某些程式，執行了以下這個指令：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$($0)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;就會啟動 shell，讓別人可以為所欲為。(有興趣的人可以用 C 的 &lt;code&gt;system()&lt;/code&gt; 或 python 的 &lt;code&gt;os.system()&lt;/code&gt; 執行看看)&lt;/p&gt;
+&lt;p&gt;這個指令的特點在於沒有使用到任何 &lt;code&gt;bash&lt;/code&gt; 或 &lt;code&gt;sh&lt;/code&gt; 的字樣就啟動了 shell，這樣就可以越過某些過濾式的檢查。&lt;/p&gt;
+&lt;h3 id=&quot;Python-基礎&quot;&gt;&lt;a href=&quot;#Python-基礎&quot; class=&quot;headerlink&quot; title=&quot;Python 基礎&quot;&gt;&lt;/a&gt;Python 基礎&lt;/h3&gt;&lt;p&gt;老實說，我對 python 幾乎一竅不通。最近才開始遵循 &lt;a href=&quot;http://learnpythonthehardway.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Learn Python The Hard Way&lt;/a&gt; 的教學開始入門。今天社課教了不少基礎用法，讓大家快速上手。值得提的是，他們有介紹到一個叫做 &lt;a href=&quot;https://www.hackerrank.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hacker Rank&lt;/a&gt; 的網站，可以讓大家練習 Python。&lt;/p&gt;
+&lt;p&gt;另一點值得講的，他們介紹了一個好用的 Pyhton Module，&lt;a href=&quot;http://pwntools.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Pwntools&lt;/a&gt;。這個工具是專門為 CTF (Capture The Flag) 比賽設計的 module，裡面包含了許多好用的 Python function，讓大家可以快速撰寫出針對某漏洞設計的 Python script。今天我也在之後的練習之中體會到了好處。&lt;/p&gt;
+&lt;h2 id=&quot;課後練習&quot;&gt;&lt;a href=&quot;#課後練習&quot; class=&quot;headerlink&quot; title=&quot;課後練習&quot;&gt;&lt;/a&gt;課後練習&lt;/h2&gt;&lt;p&gt;他們除了上課之外，還很用心地準備了一個練習題給大家測試。這個練習題主要是來自於 Python 的 &lt;a href=&quot;https://docs.python.org/2/library/pickle.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;pickle module&lt;/a&gt; 的漏洞。以下解釋一下這個漏洞。&lt;/p&gt;
+&lt;p&gt;首先可以先看這段程式碼，有興趣的人可執行看看：&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;import&lt;/span&gt; pickle, os&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Exploit&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(object)&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;__reduce__&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(self)&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		comm = &lt;span class=&quot;string&quot;&gt;&quot;sh&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; (os.system, (comm,))&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;a = pickle.dumps(Exploit())&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;b = pickle.loads(a)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;執行後會發現這段程式碼會啟動 shell，為什麼呢？&lt;/p&gt;
+&lt;p&gt;在解釋之前，我們要先了解 pickle 這個 module 是做甚麼的。&lt;/p&gt;
+&lt;p&gt;Pickle module 主要是用來對物件進行 serialize 與 deserialize 的動作。簡單地說，serialize 就是把物件轉換成另一個儲存形式 (像是字串或其他二進位碼)，deserialize 則是把資料還原成物件。其中，&lt;code&gt;pickle.dumps()&lt;/code&gt; 就是在 serialize，&lt;code&gt;pickle.loads()&lt;/code&gt; 就是在 deserialize。&lt;/p&gt;
+&lt;p&gt;而啟動 shell 的動作就發生在 &lt;code&gt;b = pickle.loads(a)&lt;/code&gt; 這行，也就是將資料還原成物件的時候。&lt;/p&gt;
+&lt;p&gt;這主要是因為，&lt;code&gt;Exploit&lt;/code&gt; 這個 class 中的 method &lt;code&gt;__reduce__&lt;/code&gt; 回傳了一組 tuple，&lt;code&gt;(os.system, (comm,))&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;Pickle module 的文件中有寫到，class 可以提供一個稱為 &lt;code&gt;__reduce__&lt;/code&gt; 的 method 來說明如何 deserialize 物件。這個 &lt;code&gt;__reduce__&lt;/code&gt; method 必須要傳回一些數值，來指示如何還原物件。第一個數值代表初始化物件的時候必須要呼叫的 function，第二個數值則是該 function 的參數。如果你仔細對照一下上面的程式碼，就會發現第一個回傳值為 &lt;code&gt;os.system&lt;/code&gt;，第二個則為一個只有包含 &lt;code&gt;comm&lt;/code&gt; 的 tuple。其結果是，會導致程式在 deserialize 時執行 &lt;code&gt;os.system(&amp;quot;sh&amp;quot;)&lt;/code&gt; 這段程式碼，而啟動 shell。&lt;/p&gt;
+&lt;p&gt;這確實非常有趣XD&lt;/p&gt;
+&lt;p&gt;後來社團的前輩們就以這題為基礎，在一台 server 上架了一個 service。該 service 包含著這個漏洞，因此可以利用這個漏洞取得該機器上的資訊。&lt;/p&gt;
+&lt;p&gt;同時他們也鼓勵利用 Python script 來寫這題，讓我好好地把前面學的很多東西都用上了！&lt;/p&gt;
+&lt;h2 id=&quot;總結&quot;&gt;&lt;a href=&quot;#總結&quot; class=&quot;headerlink&quot; title=&quot;總結&quot;&gt;&lt;/a&gt;總結&lt;/h2&gt;&lt;p&gt;光是今天的課就感覺收穫不少，而且前輩們在練習期間，也非常友善地不斷關心社員是否遇到甚麼問題。也不會因為我是清大來的就把我晾在一邊XD。這些讓我非常期待接下來的課程。&lt;/p&gt;
+&lt;p&gt;希望之後上課也能夠像今天這樣寫下心得與筆記。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天去參加了交大 &lt;a href=&quot;https://bamboofox.torchpad.com/&quot;&gt;BambooFox&lt;/a&gt; 的第一堂社課，收穫不少。因此我想寫下一些參與的心得，並記錄一些學習到的技巧。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="CTF" scheme="http://www.slmt.tw/categories/ctf/"/>
+    
+      <category term="BambooFox" scheme="http://www.slmt.tw/categories/ctf/bamboofox/"/>
+    
+    
+      <category term="bamboofox" scheme="http://www.slmt.tw/tags/bamboofox/"/>
+    
+      <category term="ctf" scheme="http://www.slmt.tw/tags/ctf/"/>
+    
+      <category term="club" scheme="http://www.slmt.tw/tags/club/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新 Blog 開張!!</title>
+    <link href="http://www.slmt.tw/2015/07/25/new-blog-annonced/"/>
+    <id>http://www.slmt.tw/2015/07/25/new-blog-annonced/</id>
+    <published>2015-07-24T16:00:00.000Z</published>
+    <updated>2016-06-16T06:07:08.992Z</updated>
+    
+    <content type="html">&lt;p&gt;這篇原先是為了我在 Jekyll 的部落格寫的，對於現在這個 blog 來說已經算是舊文囉！&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;這裏是我的新 blog&lt;/p&gt;
+&lt;p&gt;對於一般來訪的人來說，應該只會覺得外觀有改變而已。但是事實上，連後端也改變很多！之前的 blog 是先在我個人的 VM 上裝上 &lt;a href=&quot;http://httpd.apache.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Apache HTTP Server&lt;/a&gt;，然後再將他人撰寫的 &lt;a href=&quot;https://tw.wordpress.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;WordPress&lt;/a&gt; 丟在 server 上執行。不過其實我很快就發現這個做法的大問題。我個人可以很簡單地，使用 DoS 攻擊 (Denial of Service Attack)，就能夠讓我的 server 當機。&lt;/p&gt;
+&lt;p&gt;因此從那時開始，我就一直在尋覓各種解決方法，或是替代方案。&lt;/p&gt;
+&lt;p&gt;另外，WordPress 提供了蠻多功能，但是我個人其實不太需要這麼多功能。對於一個不會寫網頁的人來說，WordPress 確實是架設網站的一個很好選擇。不過對一個只想架設一個簡單 blog 的軟體工程師來說，WordPress 實在是太肥了點。&lt;/p&gt;
+&lt;p&gt;同時租用一個 VM 也是要錢的 （每個月 10 鎂，約台幣 300），所以能有一個便宜，甚至不用錢的解決方案最好。&lt;/p&gt;
+&lt;p&gt;幸好，實驗室學長 &lt;a href=&quot;http://shaokanp.me/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Marcus&lt;/a&gt; 告訴我了另一個選擇。他說我可以使用 &lt;a href=&quot;http://jekyllrb.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Jekyll&lt;/a&gt; 在 &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github Pages&lt;/a&gt; 上架設 blog。&lt;/p&gt;
+&lt;p&gt;最初我並沒有很認真地考慮，但是後來仔細一看之後，發現這是一個適合工程師，也很適合我的解決方案。&lt;/p&gt;
+&lt;p&gt;基本上使用 Jekyll 不需要任何後台管理。撰寫 blog 文章主要是透過撰寫一份 Markdown 文件來進行，然後 Jekyll 會根據你事先寫好的模板將文件轉換成靜態網頁。最後只要將網頁上傳到一個網路空間即可。&lt;/p&gt;
+&lt;p&gt;剛好 Github 有提供幫你 host 靜態網頁的功能，因此我就使用了 &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github Pages&lt;/a&gt; 這個服務。唯一的缺點是，你的所有程式碼都會公開在 Github 上，只是我個人不覺得這是大問題就是了XD&lt;/p&gt;
+&lt;p&gt;本 blog 原始碼位置： &lt;a href=&quot;https://github.com/SLMT/slmt.github.io&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/SLMT/slmt.github.io&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;這篇原先是為了我在 Jekyll 的部落格寫的，對於現在這個 blog 來說已經算是舊文囉！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Building Blog" scheme="http://www.slmt.tw/categories/building-blog/"/>
+    
+      <category term="Jekyll" scheme="http://www.slmt.tw/categories/building-blog/jekyll/"/>
+    
+    
+      <category term="blog" scheme="http://www.slmt.tw/tags/blog/"/>
+    
+      <category term="github pages" scheme="http://www.slmt.tw/tags/github-pages/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>版本編號的命名規則</title>
+    <link href="http://www.slmt.tw/2015/07/20/version-number-naming-convention/"/>
+    <id>http://www.slmt.tw/2015/07/20/version-number-naming-convention/</id>
+    <published>2015-07-19T16:00:00.000Z</published>
+    <updated>2016-06-16T06:07:08.989Z</updated>
+    
+    <content type="html">&lt;p&gt;最近正在研究如何命名軟體的版本編號，比較符合現在常用的命名方式。當然版本號可以隨意訂，但是使用了一個大家通用的規則的話，其他人也比較容易從版本號上看出了不同版本之間的變化有多大。以下分享我所瞭解到的命名規則。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;命名規則&quot;&gt;&lt;a href=&quot;#命名規則&quot; class=&quot;headerlink&quot; title=&quot;命名規則&quot;&gt;&lt;/a&gt;命名規則&lt;/h2&gt;&lt;p&gt;首先，在開始分享之前，先提供一份參考文件。基本上我就是遵照這份文件的所定義的規則。&lt;/p&gt;
+&lt;p&gt;Semantic Versioning: &lt;a href=&quot;http://semver.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://semver.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;這份文件有提供多種不同的語言供大家閱讀，我看了一下中文的翻譯也沒什麼問題，應該可以安心食用XD&lt;/p&gt;
+&lt;p&gt;那麼接下來就大致介紹一下主要的規則。&lt;/p&gt;
+&lt;h3 id=&quot;版本編號格式&quot;&gt;&lt;a href=&quot;#版本編號格式&quot; class=&quot;headerlink&quot; title=&quot;版本編號格式&quot;&gt;&lt;/a&gt;版本編號格式&lt;/h3&gt;&lt;p&gt;版本編號必須要依照以下格式命名：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[主版本號].[次版本號].[修訂版本號]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;以上每個編號都是 &amp;gt;= 0 的數字，下面就是一個符合規則的版本編號：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.0.3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;每次一發佈新版本的時候就遞增其中一個編號。&lt;/p&gt;
+&lt;h3 id=&quot;每個編號遞增的時機&quot;&gt;&lt;a href=&quot;#每個編號遞增的時機&quot; class=&quot;headerlink&quot; title=&quot;每個編號遞增的時機&quot;&gt;&lt;/a&gt;每個編號遞增的時機&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;主版本號：軟體有重大更新的時候遞增，重大更新通常是指功能與介面都有大幅度變動的時候。&lt;/li&gt;
+&lt;li&gt;次版本號：軟體發佈新功能，但是並不會大幅影響到整個軟體的時候遞增。&lt;/li&gt;
+&lt;li&gt;修訂版本號：通常是在軟體有 bug，發布 bug 的修正版時遞增。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;有些版本編號除了上述三者之外，還會有「建置版本號」。也就是只要每次建置一次軟體就會遞增一次，有時候甚至會使用建置的日期或時間來代表。不過已經很少人在用了。&lt;/p&gt;
+&lt;h3 id=&quot;版本號的比較&quot;&gt;&lt;a href=&quot;#版本號的比較&quot; class=&quot;headerlink&quot; title=&quot;版本號的比較&quot;&gt;&lt;/a&gt;版本號的比較&lt;/h3&gt;&lt;p&gt;比較的規則很簡單，就是從最左邊的數字開始比。比較大的就是比較新的版本。&lt;/p&gt;
+&lt;p&gt;如果數字一樣的話，就比下一個數字。&lt;/p&gt;
+&lt;p&gt;以下是一個比較的例子：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.0.0 &amp;lt; 1.0.1 &amp;lt; 1.1.0 &amp;lt; 1.2.0 &amp;lt; 1.4.5 &amp;lt; 2.0.0 &amp;lt; 2.1.12 &amp;lt; 2.3.2 &amp;lt; 3.0.0 ...&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;正式版之前的測試版本編號&quot;&gt;&lt;a href=&quot;#正式版之前的測試版本編號&quot; class=&quot;headerlink&quot; title=&quot;正式版之前的測試版本編號&quot;&gt;&lt;/a&gt;正式版之前的測試版本編號&lt;/h3&gt;&lt;p&gt;有些軟體在發布正式版本之前，會先發布測試版本給大眾使用。測試版本不保證沒有任何 bug 或者功能完善。&lt;/p&gt;
+&lt;p&gt;通常測試版的 &lt;code&gt;主版本號&lt;/code&gt; 會是 &lt;code&gt;0&lt;/code&gt;，例如 &lt;code&gt;0.3.1&lt;/code&gt; 就是一個測試版本。&lt;/p&gt;
+&lt;p&gt;而一般會使用 &lt;code&gt;0.1.0&lt;/code&gt; 當作測試版的初始版本號。&lt;/p&gt;
+&lt;h3 id=&quot;提醒&quot;&gt;&lt;a href=&quot;#提醒&quot; class=&quot;headerlink&quot; title=&quot;提醒&quot;&gt;&lt;/a&gt;提醒&lt;/h3&gt;&lt;p&gt;除了以上規則之外，還有些規則的細節沒有提及。如果有興趣的話可以直接看看最上面提供的文件。&lt;/p&gt;
+&lt;h2 id=&quot;命名範例&quot;&gt;&lt;a href=&quot;#命名範例&quot; class=&quot;headerlink&quot; title=&quot;命名範例&quot;&gt;&lt;/a&gt;命名範例&lt;/h2&gt;&lt;p&gt;以下分別以「線上遊戲」與「函式庫」兩者為例。&lt;/p&gt;
+&lt;h3 id=&quot;線上遊戲&quot;&gt;&lt;a href=&quot;#線上遊戲&quot; class=&quot;headerlink&quot; title=&quot;線上遊戲&quot;&gt;&lt;/a&gt;線上遊戲&lt;/h3&gt;&lt;p&gt;假設現在有款 RPG 線上遊戲叫做 &lt;code&gt;小山貓 online&lt;/code&gt;，一開始正式發佈的版本號是：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.0.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;接著推出一段時間之後，為了增加遊戲的豐富性，新增了一些新的關卡與任務，此時 &lt;code&gt;次版本號&lt;/code&gt; 有可能就會遞增：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.1.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;新增了新功能不久，有玩家回報在解任務時會卡住，沒辦法繼續。工程師檢查之下發現是 bug，立即修正。因此發佈了 bug 修正版，&lt;code&gt;修正版本號&lt;/code&gt; 遞增：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.1.1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;過了一段時間，又發布了新的關卡與任務，因此 &lt;code&gt;次版本號&lt;/code&gt; 再度遞增，而 &lt;code&gt;修正版本號&lt;/code&gt; 歸零：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.2.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;就這樣持續了一段時間。隨著時間的推進，現有的地圖與故事似乎無法滿足玩家的需求，因此遊戲公司撰寫了新故事與製作了新地圖，推出了 &lt;code&gt;小山貓的遠征之旅&lt;/code&gt; 大改版！&lt;/p&gt;
+&lt;p&gt;這個時候，遊戲出現了重大更新，所以 &lt;code&gt;主版本號&lt;/code&gt; 很有可能就會遞增，後面的版本號則歸零：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;2.0.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;這是一個線上遊戲可能的版本編號命名時機與流程。&lt;/p&gt;
+&lt;h3 id=&quot;函式庫&quot;&gt;&lt;a href=&quot;#函式庫&quot; class=&quot;headerlink&quot; title=&quot;函式庫&quot;&gt;&lt;/a&gt;函式庫&lt;/h3&gt;&lt;p&gt;函式庫的狀況與遊戲不同，因為使用函式庫的人通常是開發其他程式的工程師，所以版本號遞增的時機也會不太一樣。&lt;/p&gt;
+&lt;p&gt;假設我寫了一個 &lt;code&gt;小山貓函式庫&lt;/code&gt;，只要呼叫一個 &lt;code&gt;catMeow()&lt;/code&gt; 這個函式，電腦喇叭就會發出貓咪的叫聲。&lt;/p&gt;
+&lt;p&gt;而版本編號一開始可能訂為：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.0.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;此時我心血來潮，突然想要新增一個新的函式（新功能），&lt;code&gt;catAnimate()&lt;/code&gt; 函式，呼叫之後程式畫面中就會出現貓咪動畫。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;次版本號&lt;/code&gt; 可能就會遞增：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.1.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;我突然接到其他開發者來信，他說他們呼叫了新的 &lt;code&gt;catAnimate()&lt;/code&gt; 之後，沒有出現貓，而是出現狗！&lt;/p&gt;
+&lt;p&gt;這真是太嚴重了！必須要馬上修正這個 bug！因此我發布了一個修訂版本，且遞增了 &lt;code&gt;修訂版本號&lt;/code&gt;：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.1.1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;過了一段時間之後，我覺得現在這個 API 設計不好，我想用物件導向的方式重寫。&lt;/p&gt;
+&lt;p&gt;在重寫之後，任何人使用舊的功能之前，必須要先使用 &lt;code&gt;new Cat()&lt;/code&gt; 建立一個貓咪物件，然後分別呼叫 &lt;code&gt;cat.meow()&lt;/code&gt; 與 &lt;code&gt;cat.animate()&lt;/code&gt; 才能使用之前的功能。&lt;/p&gt;
+&lt;p&gt;這個改變影響到了許多已經寫好程式的開發者，因為他們必須要把所有使用到 &lt;code&gt;小山貓函式庫&lt;/code&gt; 的地方全部改成新的寫法。&lt;/p&gt;
+&lt;p&gt;為了因應這種重大更新，此時必須要遞增 &lt;code&gt;主版本號&lt;/code&gt;：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;2.0.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;小結&quot;&gt;&lt;a href=&quot;#小結&quot; class=&quot;headerlink&quot; title=&quot;小結&quot;&gt;&lt;/a&gt;小結&lt;/h3&gt;&lt;p&gt;大家應該可以注意到一件事情，通常遊戲的重大更新對玩家來說都是一個令人開心的事件，但是函式庫的重大更新（主版本號遞增）通常對開發者來說就代表著：「Fxxk！程式又要大修了！」&lt;/p&gt;
+&lt;p&gt;開發者會視情況來決定是否要使用大更新後的函式庫。有很多情況是，開發者仍使用舊的版本（像是 &lt;code&gt;小山貓函式庫&lt;/code&gt; 的 &lt;code&gt;1.1.1&lt;/code&gt; 版），而只有開發新程式的時候才會使用最新的版本。&lt;/p&gt;
+&lt;p&gt;例如 OpenGL 某次重大更新之後，大大地修改了繪圖的流程與方式，很多舊的函式都不能呼叫了，因此到現在還是很多人使用舊版。另外像是 Python 3 的更新也改掉了很多語法的使用方式。&lt;/p&gt;
+&lt;h2 id=&quot;總結&quot;&gt;&lt;a href=&quot;#總結&quot; class=&quot;headerlink&quot; title=&quot;總結&quot;&gt;&lt;/a&gt;總結&lt;/h2&gt;&lt;p&gt;這邊提供的只是一種目前常看到的命名規則。當然要自己定義自己的規則也不是不行，像是直接用發布日期來當版本號，只是其他人就無法使用這種常用的邏輯來判斷版本號的意義。此時最好提供一份文件說明這些版本號的意義。&lt;/p&gt;
+&lt;p&gt;另外，有些軟體在測試期間，可能會使用不同規則的命名方式。&lt;/p&gt;
+&lt;p&gt;例如從 &lt;a href=&quot;https://mcversions.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;這份下載清單&lt;/a&gt; 可以看到， &lt;a href=&quot;https://minecraft.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Minecraft&lt;/a&gt; 在測試期間的版本編號，是在前面分別加上 &lt;code&gt;a&lt;/code&gt; 代表 alpha 版，加上 &lt;code&gt;b&lt;/code&gt; 代表 beta 版。正式版本再使用類似這裡分享的規則來命名。&lt;/p&gt;
+&lt;p&gt;我個人是建議就遵照最上方文件提供的規則就好，使用一個大多數人都使用的規則並沒有什麼壞處。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近正在研究如何命名軟體的版本編號，比較符合現在常用的命名方式。當然版本號可以隨意訂，但是使用了一個大家通用的規則的話，其他人也比較容易從版本號上看出了不同版本之間的變化有多大。以下分享我所瞭解到的命名規則。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Programming" scheme="http://www.slmt.tw/categories/programming/"/>
+    
+      <category term="Software Engineering" scheme="http://www.slmt.tw/categories/programming/software-engineering/"/>
+    
+    
+      <category term="dev" scheme="http://www.slmt.tw/tags/dev/"/>
+    
+      <category term="version control" scheme="http://www.slmt.tw/tags/version-control/"/>
+    
+      <category term="naming convention" scheme="http://www.slmt.tw/tags/naming-convention/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 WordPress 的文章中使用 Syntax Highlighting</title>
+    <link href="http://www.slmt.tw/2015/07/19/syntax-highlighting-for-wordpress/"/>
+    <id>http://www.slmt.tw/2015/07/19/syntax-highlighting-for-wordpress/</id>
+    <published>2015-07-18T16:00:00.000Z</published>
+    <updated>2016-06-16T06:07:08.987Z</updated>
+    
+    <content type="html">&lt;p&gt;這篇文章原本是為了要處理舊部落格之中遇到的問題所寫的，不過現在這個問題在新部落格已經不存在了。因此我就簡短說明一下狀況與解決辦法。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;舊部落格使用的是 WordPress 系統，當我們發表一篇文章的時候，如果想要在其中嵌入一段程式碼，就會在文章前後加入 &lt;code&gt;&amp;lt;code&amp;gt;...&amp;lt;/code&amp;gt;&lt;/code&gt; tags。&lt;/p&gt;
+&lt;p&gt;不過我後來發現 WordPress 沒有提供 syntax highlighting 的功能，也就是把你的程式碼依照對應的語言以及語法加上容易辨識的顏色。&lt;/p&gt;
+&lt;p&gt;像是假設我現在想要給大家看一段 java code，那我可能就會這樣打：&lt;/p&gt;
+&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;code&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;package slmt.test;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;public class Cat &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    public static void meow() &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        System.out.println(&quot;I&#39;m a cat~ Meow!!&quot;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;code&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;然後顯示出來的效果就會像這樣：&lt;/p&gt;
+&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;package&lt;/span&gt; slmt.test;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Cat&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;meow&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        System.out.println(&lt;span class=&quot;string&quot;&gt;&quot;I&#39;m a cat~ Meow!!&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;但是 WordPress 並沒有提供這樣的功能。&lt;/p&gt;
+&lt;p&gt;幸好在同實驗室的學長 &lt;a href=&quot;http://shaokanp.me/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Pi 先生&lt;/a&gt;的建議下，得知了 &lt;a href=&quot;http://prismjs.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;稜鏡.js&lt;/a&gt; 這套 library。並且在使用之後，確認 WordPress 也能夠很輕易地套用。&lt;/p&gt;
+&lt;p&gt;雖然我現在使用的 jekyll 內已經有內建這項功能了，不過還是將這個 library 分享給大家，讓使用 WordPress 的朋友能夠輕鬆幫自己的 code 上色XD&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;這篇文章原本是為了要處理舊部落格之中遇到的問題所寫的，不過現在這個問題在新部落格已經不存在了。因此我就簡短說明一下狀況與解決辦法。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Building Blog" scheme="http://www.slmt.tw/categories/building-blog/"/>
+    
+      <category term="Word Press" scheme="http://www.slmt.tw/categories/building-blog/word-press/"/>
+    
+    
+      <category term="syntax" scheme="http://www.slmt.tw/tags/syntax/"/>
+    
+      <category term="highlight" scheme="http://www.slmt.tw/tags/highlight/"/>
+    
+      <category term="blog" scheme="http://www.slmt.tw/tags/blog/"/>
+    
+      <category term="wordpress" scheme="http://www.slmt.tw/tags/wordpress/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Dcard 文章研究 (1) - 從 Dcard API 取得文章</title>
+    <link href="http://www.slmt.tw/2015/02/19/dcard-research-1/"/>
+    <id>http://www.slmt.tw/2015/02/19/dcard-research-1/</id>
+    <published>2015-02-18T16:00:00.000Z</published>
+    <updated>2016-06-16T06:07:08.984Z</updated>
+    
+    <content type="html">&lt;p&gt;因為我過年的時候蠻無聊的，雖然有研究上的正事要做，但是我還是想做一點自己的事情。正好最近 Dcard，這個專門為大學生開設的交友網站非常熱門，裡面有著各式各樣的文章，所以我就一時興起把上面的文章抓下來看看能做什麼樣的研究。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;Dcard-簡介&quot;&gt;&lt;a href=&quot;#Dcard-簡介&quot; class=&quot;headerlink&quot; title=&quot;Dcard 簡介&quot;&gt;&lt;/a&gt;Dcard 簡介&lt;/h1&gt;&lt;p&gt;傳送門：&lt;a href=&quot;http://www.dcard.tw/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.dcard.tw/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dcard 成立於 2011 年，是一個以大學生為客群的交友網站。其最大的特色在於其每天午夜的抽卡機制。&lt;/p&gt;
+&lt;h3 id=&quot;抽卡機制&quot;&gt;&lt;a href=&quot;#抽卡機制&quot; class=&quot;headerlink&quot; title=&quot;抽卡機制&quot;&gt;&lt;/a&gt;抽卡機制&lt;/h3&gt;&lt;p&gt;其抽卡機制的運作方式為，每當到午夜時，每一位註冊的會員會收到一張卡片。卡片上包含著另一位會員的自我介紹，以及該會員的照片。如果想要認識對方，就必須要送出邀請信。但是唯有當兩方都有送出邀請時，才會看到對方的邀請信的內容，並成為朋友。如果有其中一方直至下次午夜前尚未送出邀請，那張卡片就會消失，以後不會再抽到同一個人。&lt;/p&gt;
+&lt;h3 id=&quot;匿名討論區&quot;&gt;&lt;a href=&quot;#匿名討論區&quot; class=&quot;headerlink&quot; title=&quot;匿名討論區&quot;&gt;&lt;/a&gt;匿名討論區&lt;/h3&gt;&lt;p&gt;除了抽卡之外，Dcard 也提供了一個匿名討論區。討論區上有十幾種討論版，依據不同的討論議題分類，像是：時事、男女關係、音樂、電影…等等。在上面無論發文或回文，只會顯示學校與系名，甚至某些狀況下能夠完全隱藏上述資訊，只留下性別供人判斷。若在文中流露太多辨別身份的資訊，則會被直接刪除。因此他人幾乎無法辨別每一則文章或留言是由誰所撰寫。&lt;/p&gt;
+&lt;p&gt;因為 Dcard 的註冊流程繁雜，加上註冊者必須要具備經過 Dcard 認證的學校電子信箱。因此幾乎可以確定註冊者就是大學生。並且在特殊抽卡機制的驅使下，使得使用者更喜歡在 Dcard 上活動。這也造就了 Dcard 匿名討論區熱絡討論的狀況。&lt;/p&gt;
+&lt;h1 id=&quot;研究方向&quot;&gt;&lt;a href=&quot;#研究方向&quot; class=&quot;headerlink&quot; title=&quot;研究方向&quot;&gt;&lt;/a&gt;研究方向&lt;/h1&gt;&lt;p&gt;這次主要是要研究其匿名討論區的部分。因為討論區是公開給任何人觀賞，所以資料取得就沒有隱私的問題。雖然我有想過要取得抽卡的資料，不過這並非是短時間內就可以收集起來的，因而作罷。看看有沒有辦法從文章中挖出什麼有趣的訊息。&lt;/p&gt;
+&lt;h1 id=&quot;爬文章&quot;&gt;&lt;a href=&quot;#爬文章&quot; class=&quot;headerlink&quot; title=&quot;爬文章&quot;&gt;&lt;/a&gt;爬文章&lt;/h1&gt;&lt;p&gt;既然是要研究文章，那我勢必是要把 Dcard 上所有文都先抓下來。&lt;/p&gt;
+&lt;p&gt;身為一個 Programmer，我們當然不會一篇一篇地用瀏覽器打開文章，然後一篇一篇地存起來。因此這邊我們就要寫一個爬蟲來自動幫我們把所有文章都抓下來，以方便我們做研究。&lt;/p&gt;
+&lt;h3 id=&quot;網路監測&quot;&gt;&lt;a href=&quot;#網路監測&quot; class=&quot;headerlink&quot; title=&quot;網路監測&quot;&gt;&lt;/a&gt;網路監測&lt;/h3&gt;&lt;p&gt;那要怎麼樣讓程式能夠自動找出文章，然後存下來呢？&lt;/p&gt;
+&lt;p&gt;我們可以先瞭解一下，到底 Dcard 是怎麼從伺服器上取得文章的？&lt;/p&gt;
+&lt;p&gt;幸虧現在的瀏覽器都有很強大的 debug 功能，我們可以很簡單地知道當我們進入 Dcard 網站時，瀏覽器到底跟伺服器送了哪些請求，得到了哪些回覆。&lt;/p&gt;
+&lt;p&gt;當在使用 Firefox 或者 Google Chrome 時，你可以按下 F12 (Mac 是按 fn + F12) 呼叫出 debug 視窗。此時只要選擇其中一個頁籤「網路」，就可以監測有哪些請求與回覆。&lt;/p&gt;
+&lt;p&gt;當你打開畫面後，此時點選一個 Dcard 上的文章，就會顯示像是下圖的資訊：&lt;br&gt;&lt;a href=&quot;/images/20150219001.png&quot;&gt;&lt;img src=&quot;/images/20150219001.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;因為在下曾經有參與過寫網站與 App 的經驗，此時我就發現其中有幾個請求很可疑。我們先看「類型」那一行，該行所代表的就是伺服器回應時所傳遞的資料格式。其中第一個與第三個請求都是收到 JSON 的回覆，這代表我們很有可能中大獎了！&lt;/p&gt;
+&lt;p&gt;JSON 是一種常用於傳遞小型資料的格式，現在廣泛使用於 App 與伺服器之間的溝通。因為 Dcard 除了網站之外，還有開發 App 版本，因此使用 JSON 搭配 RESTful API 來傳遞資料也是很合理的做法。&lt;/p&gt;
+&lt;h3 id=&quot;分析-API&quot;&gt;&lt;a href=&quot;#分析-API&quot; class=&quot;headerlink&quot; title=&quot;分析 API&quot;&gt;&lt;/a&gt;分析 API&lt;/h3&gt;&lt;p&gt;當我們點選上圖中的第一個請求之後，馬上就會跳出另一個視窗。此時我們點選「回應」，就可以看見伺服器回覆的內容：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/20150219002.png&quot;&gt;&lt;img src=&quot;/images/20150219002.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大致看下來之後，就知道這鐵定是文章的資料沒錯！內容大約是文章的一些資料，像是 fourm_alias 就是代表這個文章屬於哪個版，updatedAt 就是最近一次更新時間，likeCount 就是點讚數等等。&lt;/p&gt;
+&lt;p&gt;若進一步點開 version 這個 object，就可以發現裡面放的就是文章的內文。comment 點開則可以看到文章下面的留言與留言者的學校與系名。&lt;/p&gt;
+&lt;p&gt;看到這邊，就知道這一個 JSON object 裡面所包含的資料就是這整份文章的資料了！因此我們只要能夠找到所有文章的 JSON object，就可以把所有文章都存在自己電腦裡。&lt;/p&gt;
+&lt;p&gt;這時我們再點選「檔頭」，可以看到這些資料：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/20150219003.png&quot;&gt;&lt;img src=&quot;/images/20150219003.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最重要的是上面「URL」的部分。我們可以看到這個網址是：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;http://www.dcard.tw/api/post/all/85846&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;code&gt;www.dcard.tw&lt;/code&gt; 當然是伺服器的網址，而剩下 &lt;code&gt;api/post/all/85846&lt;/code&gt; 就是可以取得這篇文章 JSON object 的位址。&lt;/p&gt;
+&lt;p&gt;這邊大致可以猜到文章的 API 八成是這樣：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;http://www.dcard.tw/api/post/all/[post-id]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;如果我們將 85846 換成別的數字，像是 84840：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;http://www.dcard.tw/api/post/all/85840&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;然後把這個網址輸入瀏覽器的網址列，按下 enter，就會出現：&lt;/p&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;forum_alias&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;bg&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;pinned&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;anonymousDepartment&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;anonymousSchool&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;reply&quot;&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;-1&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;updatedAt&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;2015-02-18T18:38:15.890Z&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;createdAt&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;2015-02-18T18:04:07.135Z&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;follow&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;comment&quot;&lt;/span&gt;: [...],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;大致看下來應該可以發現這是另一個文章的 JSON object。&lt;/p&gt;
+&lt;p&gt;那麼毫無疑問，那個數字就是文章的 id(編號)，而那段網址就是能夠取得文章 JSON object 的 API。並且幸運的是，文章編號看起來是從依序給定的。也就是說，假設最新的文章編號是 85846，那我們只需要從 0 掃到 85846，應該就可以取得 Dcard 上所有文章的 JSON object。&lt;/p&gt;
+&lt;p&gt;下次再來說該怎麼抓下來，怎麼處理吧～&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;因為我過年的時候蠻無聊的，雖然有研究上的正事要做，但是我還是想做一點自己的事情。正好最近 Dcard，這個專門為大學生開設的交友網站非常熱門，裡面有著各式各樣的文章，所以我就一時興起把上面的文章抓下來看看能做什麼樣的研究。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Research" scheme="http://www.slmt.tw/categories/research/"/>
+    
+      <category term="Dcard" scheme="http://www.slmt.tw/categories/research/dcard/"/>
+    
+    
+      <category term="research" scheme="http://www.slmt.tw/tags/research/"/>
+    
+      <category term="dcard" scheme="http://www.slmt.tw/tags/dcard/"/>
+    
+  </entry>
+  
+</feed>

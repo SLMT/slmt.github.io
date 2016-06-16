@@ -1,3 +1,0 @@
-[submodule "deploy"]
-	path = .deploy_git
-	url = git@github.com:SLMT/slmt.github.io.git

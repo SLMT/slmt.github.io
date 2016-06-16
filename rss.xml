@@ -5,7 +5,7 @@
   <link href="/rss.xml" rel="self"/>
   
   <link href="http://www.slmt.tw/"/>
-  <updated>2016-06-16T06:07:09.003Z</updated>
+  <updated>2016-06-16T08:06:13.882Z</updated>
   <id>http://www.slmt.tw/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.slmt.tw/2016/06/15/hexo-blog/"/>
     <id>http://www.slmt.tw/2016/06/15/hexo-blog/</id>
     <published>2016-06-15T14:31:18.000Z</published>
-    <updated>2016-06-16T06:07:09.003Z</updated>
+    <updated>2016-06-16T08:06:13.882Z</updated>
     
     <content type="html">&lt;p&gt;我又換新部落格啦！這次 Static Pages Generator 改用 &lt;a href=&quot;https://hexo.io/zh-tw/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;，原因主要為：&lt;/p&gt;
 &lt;ul&gt;
@@ -31,7 +31,7 @@
 &lt;h2 id=&quot;主題&quot;&gt;&lt;a href=&quot;#主題&quot; class=&quot;headerlink&quot; title=&quot;主題&quot;&gt;&lt;/a&gt;主題&lt;/h2&gt;&lt;p&gt;因為我一直都沒有自己很喜歡的主題，所以這次決定來自己寫一個。&lt;/p&gt;
 &lt;p&gt;這次主要的概念是簡單明瞭，又要 responsive。因此就製作出了現在看到的這個部落格風格。&lt;/p&gt;
 &lt;p&gt;如果想要參考我自己撰寫的程式碼，可以到我的 Github Repository 參考：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/SLMT/slmt.github.io/tree/source-code&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/SLMT/slmt.github.io/tree/source-code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/SLMT/slmt-blog&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/SLMT/slmt-blog&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;雖然這個風格很容易寫就是了XD&lt;/p&gt;
 &lt;p&gt;這個風格主要使用了以下這些 library：&lt;/p&gt;
 &lt;ul&gt;
@@ -39,8 +39,6 @@
 &lt;li&gt;&lt;a href=&quot;http://fontawesome.io/?utm_source=hackernewsletter&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Font Awesome&lt;/a&gt; - 一個整合各種實用 icon 的字型。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.google.com/fonts/earlyaccess&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google Font - Early Access&lt;/a&gt; - Google 提供各種字型的平台(提早釋出)，為了&lt;a href=&quot;https://www.google.com/get/noto/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;思源黑體&lt;/a&gt;。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;發布於-Github-Pages&quot;&gt;&lt;a href=&quot;#發布於-Github-Pages&quot; class=&quot;headerlink&quot; title=&quot;發布於 Github Pages&quot;&gt;&lt;/a&gt;發布於 Github Pages&lt;/h2&gt;&lt;p&gt;為了能夠方便地將 blog 發布於 Github pages，同時又為了能夠使用自己的 &lt;code&gt;www.slmt.tw&lt;/code&gt; 這個網址。花了一點時間研究 Hexo 內建的套件與 Github Pages 的設定。最後發現下面這個網頁的教學還蠻有用的，如果有興趣的話可以參考：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://readorskip.com/2015/06/08/Using-own-domain-with-github-and-hexo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://readorskip.com/2015/06/08/Using-own-domain-with-github-and-hexo/&lt;/a&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">

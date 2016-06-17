@@ -5,7 +5,7 @@
   <link href="/rss.xml" rel="self"/>
   
   <link href="http://www.slmt.tw/"/>
-  <updated>2016-06-16T08:12:10.894Z</updated>
+  <updated>2016-06-17T13:33:11.017Z</updated>
   <id>http://www.slmt.tw/</id>
   
   <author>
@@ -16,11 +16,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Rust 任天堂64 模擬器</title>
+    <link href="http://www.slmt.tw/2016/06/17/rust-nintendo64-emulator/"/>
+    <id>http://www.slmt.tw/2016/06/17/rust-nintendo64-emulator/</id>
+    <published>2016-06-17T13:19:28.000Z</published>
+    <updated>2016-06-17T13:33:11.017Z</updated>
+    
+    <content type="html">&lt;p&gt;先說不是我寫的XD&lt;/p&gt;
+&lt;p&gt;最近訂閱了 &lt;a href=&quot;https://this-week-in-rust.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;This Week in Rust&lt;/a&gt; 這個部落格上的文章。這個部落格會將每周關於 Rust 值得注意的事項整理成一篇文章，分享給大家。因為近期對 Rust 很有興趣，就訂閱了這個平台。&lt;/p&gt;
+&lt;p&gt;其中我看到了一個很有趣的 project。就是一位叫做 ferris 的網友，在 Twitch 上實況用 Rust 撰寫一個任天堂64 的模擬器。&lt;/p&gt;
+&lt;p&gt;一直以來我都沒有真正看過模擬器裡面的程式碼，而且我也沒有看過一個大型 Rust Project 的撰寫過程，因此對這個 project 就備感興趣。&lt;/p&gt;
+&lt;p&gt;目前最新才到 11 集，雖然我看了一集多還沒看到它載入第一個 instruction，不過目前為止讓我複習不少 Rust 語法，而且也學到了關於模擬器的一些基本知識。也許未來我也可以實況寫一個 Game Boy XD (寫任天堂64看起來很累)&lt;/p&gt;
+&lt;p&gt;有興趣的人可以追蹤它的 Twitter，或者到 Youtube 上看它的實況記錄，程式碼則可以在 Github 上找到：&lt;/p&gt;
+&lt;p&gt;Twitter - 追蹤 ferris：&lt;a href=&quot;https://twitter.com/ferristweetsnow&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://twitter.com/ferristweetsnow&lt;/a&gt;&lt;br&gt;Youtube - 實況記錄：&lt;a href=&quot;https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2&lt;/a&gt;&lt;br&gt;Github - 程式碼：&lt;a href=&quot;https://github.com/yupferris/rustendo64&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/yupferris/rustendo64&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;先說不是我寫的XD&lt;/p&gt;
+&lt;p&gt;最近訂閱了 &lt;a href=&quot;https://this-week-in-rust.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;This Week in Rust&lt;/a&gt; 這個部落格上的文章。這個部落格會將每周關
+    
+    </summary>
+    
+      <category term="Programming" scheme="http://www.slmt.tw/categories/programming/"/>
+    
+      <category term="Rust" scheme="http://www.slmt.tw/categories/programming/rust/"/>
+    
+    
+      <category term="rust" scheme="http://www.slmt.tw/tags/rust/"/>
+    
+      <category term="programming" scheme="http://www.slmt.tw/tags/programming/"/>
+    
+      <category term="emulator" scheme="http://www.slmt.tw/tags/emulator/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hexo-blog</title>
     <link href="http://www.slmt.tw/2016/06/15/hexo-blog/"/>
     <id>http://www.slmt.tw/2016/06/15/hexo-blog/</id>
     <published>2016-06-15T14:31:18.000Z</published>
-    <updated>2016-06-16T08:12:10.894Z</updated>
+    <updated>2016-06-17T13:12:43.820Z</updated>
     
     <content type="html">&lt;p&gt;我又換新部落格啦！這次 Static Pages Generator 改用 &lt;a href=&quot;https://hexo.io/zh-tw/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;，原因主要為：&lt;/p&gt;
 &lt;ul&gt;
@@ -68,7 +104,7 @@
     <link href="http://www.slmt.tw/2015/10/30/bamboofox-club-03/"/>
     <id>http://www.slmt.tw/2015/10/30/bamboofox-club-03/</id>
     <published>2015-10-29T16:00:00.000Z</published>
-    <updated>2016-06-16T06:07:09.000Z</updated>
+    <updated>2016-06-17T13:12:43.818Z</updated>
     
     <content type="html">&lt;p&gt;這次的課程接續上次組合語言的內容，主要在談 x86 架構下的組合語言，以及常見的 Buffer Overflow 漏洞。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -129,7 +165,7 @@
     <link href="http://www.slmt.tw/2015/10/16/bamboofox-club-02/"/>
     <id>http://www.slmt.tw/2015/10/16/bamboofox-club-02/</id>
     <published>2015-10-15T16:00:00.000Z</published>
-    <updated>2016-06-16T06:07:08.998Z</updated>
+    <updated>2016-06-17T13:12:43.815Z</updated>
     
     <content type="html">&lt;p&gt;今天去了第二次交大 &lt;a href=&quot;https://bamboofox.torchpad.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;BambooFox&lt;/a&gt; 社課，這次內容主要在於 Reverse Engineering，以下紀錄了今天社課的要點。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -202,7 +238,7 @@
     <link href="http://www.slmt.tw/2015/10/02/bamboofox-club-01/"/>
     <id>http://www.slmt.tw/2015/10/02/bamboofox-club-01/</id>
     <published>2015-10-01T16:00:00.000Z</published>
-    <updated>2016-06-16T06:07:08.995Z</updated>
+    <updated>2016-06-17T13:12:43.812Z</updated>
     
     <content type="html">&lt;p&gt;今天去參加了交大 &lt;a href=&quot;https://bamboofox.torchpad.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;BambooFox&lt;/a&gt; 的第一堂社課，收穫不少。因此我想寫下一些參與的心得，並記錄一些學習到的技巧。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -259,7 +295,7 @@
     <link href="http://www.slmt.tw/2015/07/25/new-blog-annonced/"/>
     <id>http://www.slmt.tw/2015/07/25/new-blog-annonced/</id>
     <published>2015-07-24T16:00:00.000Z</published>
-    <updated>2016-06-16T06:07:08.992Z</updated>
+    <updated>2016-06-17T13:12:43.808Z</updated>
     
     <content type="html">&lt;p&gt;這篇原先是為了我在 Jekyll 的部落格寫的，對於現在這個 blog 來說已經算是舊文囉！&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -297,7 +333,7 @@
     <link href="http://www.slmt.tw/2015/07/20/version-number-naming-convention/"/>
     <id>http://www.slmt.tw/2015/07/20/version-number-naming-convention/</id>
     <published>2015-07-19T16:00:00.000Z</published>
-    <updated>2016-06-16T06:07:08.989Z</updated>
+    <updated>2016-06-17T13:12:43.807Z</updated>
     
     <content type="html">&lt;p&gt;最近正在研究如何命名軟體的版本編號，比較符合現在常用的命名方式。當然版本號可以隨意訂，但是使用了一個大家通用的規則的話，其他人也比較容易從版本號上看出了不同版本之間的變化有多大。以下分享我所瞭解到的命名規則。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -385,7 +421,7 @@
     <link href="http://www.slmt.tw/2015/07/19/syntax-highlighting-for-wordpress/"/>
     <id>http://www.slmt.tw/2015/07/19/syntax-highlighting-for-wordpress/</id>
     <published>2015-07-18T16:00:00.000Z</published>
-    <updated>2016-06-16T06:07:08.987Z</updated>
+    <updated>2016-06-17T13:12:43.804Z</updated>
     
     <content type="html">&lt;p&gt;這篇文章原本是為了要處理舊部落格之中遇到的問題所寫的，不過現在這個問題在新部落格已經不存在了。因此我就簡短說明一下狀況與解決辦法。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -411,11 +447,11 @@
       <category term="Word Press" scheme="http://www.slmt.tw/categories/building-blog/word-press/"/>
     
     
+      <category term="blog" scheme="http://www.slmt.tw/tags/blog/"/>
+    
       <category term="syntax" scheme="http://www.slmt.tw/tags/syntax/"/>
     
       <category term="highlight" scheme="http://www.slmt.tw/tags/highlight/"/>
-    
-      <category term="blog" scheme="http://www.slmt.tw/tags/blog/"/>
     
       <category term="wordpress" scheme="http://www.slmt.tw/tags/wordpress/"/>
     
@@ -426,7 +462,7 @@
     <link href="http://www.slmt.tw/2015/02/19/dcard-research-1/"/>
     <id>http://www.slmt.tw/2015/02/19/dcard-research-1/</id>
     <published>2015-02-18T16:00:00.000Z</published>
-    <updated>2016-06-16T06:07:08.984Z</updated>
+    <updated>2016-06-17T13:12:43.802Z</updated>
     
     <content type="html">&lt;p&gt;因為我過年的時候蠻無聊的，雖然有研究上的正事要做，但是我還是想做一點自己的事情。正好最近 Dcard，這個專門為大學生開設的交友網站非常熱門，裡面有著各式各樣的文章，所以我就一時興起把上面的文章抓下來看看能做什麼樣的研究。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;

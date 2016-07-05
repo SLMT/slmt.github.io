@@ -29,10 +29,10 @@
 <p>其他還有像是，會幫你標出 function 內的區域變數，另外也可以幫區塊與變數重新命名等等。善用的話就可以大大幫助逆向工程。</p>
 <h4 id="轉換成-C-Code"><a href="#轉換成-C-Code" class="headerlink" title="轉換成 C Code"></a>轉換成 C Code</h4><p>就算已經會組合語言，也會使用 IDA Pro，真正看下去的時候也不一定能很快上手。這邊有個很重要的概念在於，你要知道那些 C 語言的程式碼轉換後會變成甚麼樣的組合語言。今天上課他們有稍微提到常見的迴圈和 function call 會大概變成甚麼樣子。如果有稍微記得的話，對還原成 C 的時候會很有幫助。詳情也可以看看他們的投影片。</p>
 <p>再來，就是要知道一些組合語言的潛規則。像是當你看到了下面這段程式碼：</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">push ...</span><br><span class="line">push ...</span><br><span class="line">push ...</span><br><span class="line">call ...</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">push ...</div><div class="line">push ...</div><div class="line">push ...</div><div class="line">call ...</div></pre></td></tr></table></figure>
 <p>也就是一堆 <code>push</code> 之後接著一個 <code>call</code>，這其實就是在呼叫 function。<code>push</code> 將呼叫 function 的參數存入 stack，<code>call</code> 則是在讓程式的執行跳轉到 function 的程式碼執行。</p>
 <p>而且事實上，並不是所有呼叫 function 的程式碼都長這樣，有的則是：</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">mov    %eax,0x4(%esp)</span><br><span class="line">mov    %ebx,(%esp)</span><br><span class="line">call   ...</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">mov    %eax,0x4(%esp)</div><div class="line">mov    %ebx,(%esp)</div><div class="line">call   ...</div></pre></td></tr></table></figure>
 <p><code>%eax</code>、<code>%ebx</code>、<code>%esp</code> 都是 register。Register 是 CPU 之中用來暫存資料的空間。其中 <code>%esp</code> 代表的是 stack 最頂層的位置。這一連串的 <code>mov</code> 動作其實就等同於 <code>push</code>，只是 <code>push</code> 會移動 <code>%esp</code>，<code>mov</code> 不會移動。所以這一段程式碼其實跟上一段是差不多的行為。可是沒看過就會覺得怎麼怪怪的。</p>
 <p>又或者你要知道，通常 function return 的時候，會把 return value 塞在 <code>%eax</code> 裡面。因此時常在某些 function 回來之後，就會看到程式碼取出 <code>%eax</code> 的值做其他事情。</p>
 <p>很多規則都是需要多看幾次或者上網查過才會知道的。</p>

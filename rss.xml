@@ -5,7 +5,7 @@
   <link href="/rss.xml" rel="self"/>
   
   <link href="http://www.slmt.tw/"/>
-  <updated>2016-06-17T14:44:42.062Z</updated>
+  <updated>2016-07-05T08:44:56.537Z</updated>
   <id>http://www.slmt.tw/</id>
   
   <author>
@@ -14,6 +14,123 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2016 美國行 見聞筆記</title>
+    <link href="http://www.slmt.tw/2016/07/05/sigmod-2016-travel-notes/"/>
+    <id>http://www.slmt.tw/2016/07/05/sigmod-2016-travel-notes/</id>
+    <published>2016-07-05T08:36:39.000Z</published>
+    <updated>2016-07-05T08:44:56.537Z</updated>
+    
+    <content type="html">&lt;p&gt;6/19 ~ 7/5 這段期間我前往美國進行了為期兩個多禮拜的旅行，主要目的是參加 SIGMOD 2016 學術會議，次要目的則是到美國去玩。(但是實際上花的時間是玩比較多XD)&lt;/p&gt;
+&lt;p&gt;因為這次是我第一次去美國，觀察到很多有趣的事情。因此特別將觀察到的事物紀錄在這篇文章之中，讓沒有機會去美國，或者將要去美國的人可以參考看看。&lt;/p&gt;
+&lt;p&gt;關於 SIGMOD 2016 會議的心得與見聞之後會寫在另一篇文章中。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;旅遊路徑&quot;&gt;&lt;a href=&quot;#旅遊路徑&quot; class=&quot;headerlink&quot; title=&quot;旅遊路徑&quot;&gt;&lt;/a&gt;旅遊路徑&lt;/h2&gt;&lt;p&gt;首先先用一張圖來展示一下我們的旅遊路線 (請從左上角的藍點出發)：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;route.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;route.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以下詳細列出我們經過的地點：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第一天：桃園國際機場 -&amp;gt; 坐 11 小時飛機 -&amp;gt; 舊金山國際機場 (SFO) -&amp;gt; 住 SFO 附近的旅館&lt;/li&gt;
+&lt;li&gt;第二天：舊金山 (San Francisco) -&amp;gt; 山景城 (Mountain View) Google 總部 -&amp;gt; 庫帕提諾 (Cupertino) Apple 總部 -&amp;gt; 史丹佛大學 (Stanford University) -&amp;gt; 在 奧克荷斯特 (Oakhurst) 的旅館住宿&lt;/li&gt;
+&lt;li&gt;第三天：奧克荷斯特 (Oakhurst) -&amp;gt; 優勝美地國家公園 (Yosemite National Park) -&amp;gt; 莫諾湖 (Mono Lake, 我們又叫它單聲道湖) -&amp;gt; 在 馬麥斯湖 (Mammoth Lakes) 的旅館住宿&lt;/li&gt;
+&lt;li&gt;第四天：馬麥斯湖 (Mammoth Lakes) -&amp;gt; 進入內華達州 (State of Nevada) -&amp;gt; 六小時左右車程 -&amp;gt; 拉斯維加斯 (Las Vegas) -&amp;gt; 看秀 -&amp;gt; 在當地住宿&lt;/li&gt;
+&lt;li&gt;第五天：拉斯維加斯 (Las Vegas) -&amp;gt; 進入亞利桑納州 (State of Arizona) -&amp;gt; 西大峽谷 (Grand Canyon West) -&amp;gt; 胡佛水壩 (Hoover Dam) -&amp;gt; 拉斯維加斯 (Las Vegas)&lt;/li&gt;
+&lt;li&gt;第六天：拉斯維加斯 (Las Vegas) -&amp;gt; 槍店打靶 -&amp;gt; 進入加州 (State of California) -&amp;gt; 洛杉磯 (Los Angeles) -&amp;gt; 在好萊塢附近住宿&lt;/li&gt;
+&lt;li&gt;第七天：好萊塢附近 -&amp;gt; 環球影城 (University Studio) -&amp;gt; 回到旅館&lt;/li&gt;
+&lt;li&gt;第八天：旅館 -&amp;gt; 長灘 (Long Beach) -&amp;gt; 愛荷華級戰艦博物館 (Iowa Battleship Museum) -&amp;gt; 聖莫尼卡 (Santa Monica) -&amp;gt; 洛杉磯聯合車站 (Los Angeles Union station) -&amp;gt; 搭八小時夜間班車回舊金山&lt;/li&gt;
+&lt;li&gt;第九天：下車 -&amp;gt; 搭公車前往市區 -&amp;gt; 將行李寄放在旅館 -&amp;gt; 聯合廣場 (Union Square) -&amp;gt; 回到旅館&lt;/li&gt;
+&lt;li&gt;第十天～第十二天：SIGMOD 2016 會議&lt;/li&gt;
+&lt;li&gt;第十三天：旅館 -&amp;gt; 惡魔島 (Alcatraz Island) -&amp;gt; 逛 39 號碼頭 (Pier 39) -&amp;gt; 在舊金山市區內亂晃 -&amp;gt; 回到旅館&lt;/li&gt;
+&lt;li&gt;第十四天：旅館 -&amp;gt; 前往舊金山購物城 (San Francisco Premium Outlets) -&amp;gt; 回到旅館&lt;/li&gt;
+&lt;li&gt;第十五天：旅館 -&amp;gt; 舊金山市政中心 (Civic Center) -&amp;gt; 延市場街 (Market Street) 一路逛到碼頭 -&amp;gt; 渡輪大厦 (Ferry Building) -&amp;gt; 反向逛回旅館 -&amp;gt; 到 SFO 準備搭飛機回台灣&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;觀察&quot;&gt;&lt;a href=&quot;#觀察&quot; class=&quot;headerlink&quot; title=&quot;觀察&quot;&gt;&lt;/a&gt;觀察&lt;/h2&gt;&lt;p&gt;以下採用條列式的方式列出了我所觀察到的一些特點。若未來我有想到其他的，可能會再補充上去。&lt;/p&gt;
+&lt;h3 id=&quot;整體&quot;&gt;&lt;a href=&quot;#整體&quot; class=&quot;headerlink&quot; title=&quot;整體&quot;&gt;&lt;/a&gt;整體&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;美金 100 元很難用，因為太大張很少店願意收&lt;/li&gt;
+&lt;li&gt;超商或餐廳大多數的飲料都是碳酸飲料或能量飲量，茶通常只有檸檬紅茶或奇怪的調味茶，不容易買到日式綠茶&lt;/li&gt;
+&lt;li&gt;美國平常能吃到的最低價餐點為速食，價格通常不會低於 5 USD，一般在 10 USD 左右&lt;/li&gt;
+&lt;li&gt;薯條為最常出現的主食&lt;/li&gt;
+&lt;li&gt;美國大眾交通運輸沒有很方便，若要進行離開城市的旅行，最好租車來開&lt;/li&gt;
+&lt;li&gt;人行紅綠燈與台灣很不同。不能行進的時候，雖然跟台灣一樣會顯示紅色的號誌。但是可以行進的時候，會先變成白色號誌，再轉變成紅色手掌搭配倒數計時。一般台灣人看到紅色手掌會以為是不能前進的意思，但是搭配倒數計時則其實是可以通行的。&lt;/li&gt;
+&lt;li&gt;Wifi 普及率算高，但是大多數網速都很慢&lt;/li&gt;
+&lt;li&gt;基本上在美國，有人服務到你包括桌邊點餐、搬行李、整理房間等等行為都要給小費 (Tips)。金額隨行為不同而變。整理房間通常 1~3 USD，吃飯則有人說給 10%，有人說給 18%，後者似乎比較多人講。&lt;/li&gt;
+&lt;li&gt;美國刷卡有種先刷卡再填入金額交易的行為。通常台灣都是先看好多少錢，再刷卡簽名。但是美國是先刷卡，然後在請款單上寫上小費與總金額之後再簽名。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;優勝美地國家公園&quot;&gt;&lt;a href=&quot;#優勝美地國家公園&quot; class=&quot;headerlink&quot; title=&quot;優勝美地國家公園&quot;&gt;&lt;/a&gt;優勝美地國家公園&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;yosemite.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;yosemite.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Glacier point 可以開車上去，但是要盡量在早上 10 點以前上去，不然人多就會開始管制車輛進出。&lt;/li&gt;
+&lt;li&gt;Yosemite Valley 內雖然有很多停車場，但是很容易停滿。若想停那邊就同樣也要很早去。我們當時是去完 Glacier Pointer 再下來，結果我們巡完 Valley 內所有停車場完全找不到任何位置。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;Las-Vegas&quot;&gt;&lt;a href=&quot;#Las-Vegas&quot; class=&quot;headerlink&quot; title=&quot;Las Vegas&quot;&gt;&lt;/a&gt;Las Vegas&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;vegas.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;vegas.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;白天很熱&lt;/li&gt;
+&lt;li&gt;晚上也很熱，跟白天的差異只差在少了直曬的陽光，很有可能跟集中的水泥建築、沙漠地帶與持續排放熱氣的空調外機有關。熱的程度基本上就是熱到汗流出來馬上就會蒸發。&lt;/li&gt;
+&lt;li&gt;街道上有很多人在賣冰水，大多價格為 1 USD&lt;/li&gt;
+&lt;li&gt;高速公路的交流道非常複雜，而且幾乎快到閘道才會有告示牌通知前有閘道，如果沒有 Google 地圖或其他導航系統就很容易走錯&lt;/li&gt;
+&lt;li&gt;賭場要 21 歲以上才能進去，安全人員有權在任意時候要求查看 ID (身分證明, 外國人就看護照)。有些賭場會提供一個服務台，讓你在那邊查完 ID 之後取得一個手環。該手環可以證明你符合資格，安全人員就不會一直來煩你。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;Los-Angles&quot;&gt;&lt;a href=&quot;#Los-Angles&quot; class=&quot;headerlink&quot; title=&quot;Los Angles&quot;&gt;&lt;/a&gt;Los Angles&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;儘管在夏天，天氣仍稍微偏涼，晚上可能最好穿件薄外套&lt;/li&gt;
+&lt;li&gt;高速公路上限速大概 65 miles/hr，但是大家都開到差不多 80 miles/hr&lt;/li&gt;
+&lt;li&gt;路上有人會發送光碟片，然後附上他的簽名，並表示他是知名藝人。當你接手光碟片後，就會要求你付錢購買，遇到這種情況要盡量避免接觸。&lt;/li&gt;
+&lt;li&gt;有很多很大的海灘&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;環球影城&quot;&gt;&lt;a href=&quot;#環球影城&quot; class=&quot;headerlink&quot; title=&quot;環球影城&quot;&gt;&lt;/a&gt;環球影城&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;universal.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;universal.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;遊樂設施（排除表演）之中，最好玩的應該是哈利波特的 4D 冒險&lt;/li&gt;
+&lt;li&gt;表演都很值得看，甚至應該先看表演再看是否有剩餘時間玩遊樂設施&lt;/li&gt;
+&lt;li&gt;就算中午才去，也可以把所有表演跟設施在閉園前玩完，因此其實不太需要一大早就去排隊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;愛荷華級戰艦博物館&quot;&gt;&lt;a href=&quot;#愛荷華級戰艦博物館&quot; class=&quot;headerlink&quot; title=&quot;愛荷華級戰艦博物館&quot;&gt;&lt;/a&gt;愛荷華級戰艦博物館&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;iowa.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;iowa.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;上網買門票可以便宜 2 USD (19.95 USD =&amp;gt; 17.95 USD)&lt;/li&gt;
+&lt;li&gt;戰艦很大，可以逛的區域很多，走完需要一點時間。走馬看花大概要半到一小時，仔細逛可以逛一整天&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;San-Francisco&quot;&gt;&lt;a href=&quot;#San-Francisco&quot; class=&quot;headerlink&quot; title=&quot;San Francisco&quot;&gt;&lt;/a&gt;San Francisco&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;sf.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;sf.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;sf_china.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;sf_china.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;雖然有很多華人，但大多數的華人都講廣東話，幾乎不會說普通話&lt;/li&gt;
+&lt;li&gt;公車非常多樣，有些是使用高架電纜，有些是輕軌，另外還有地下鐵與一般公車&lt;/li&gt;
+&lt;li&gt;街道上常會聞到有尿騷味&lt;/li&gt;
+&lt;li&gt;Union Square 以南有很多流浪漢和奇怪的人聚集&lt;/li&gt;
+&lt;li&gt;海邊很舒適，風景不錯&lt;/li&gt;
+&lt;li&gt;受到加利福尼亞洋流影響，夏天也非常冷，白天可能需要穿件長袖，晚上則冷到需要穿上外套&lt;/li&gt;
+&lt;li&gt;公車大概價格是 2.25 USD/人，通常買一張票後在該時間區段內都可以重複使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;SFO&quot;&gt;&lt;a href=&quot;#SFO&quot; class=&quot;headerlink&quot; title=&quot;SFO&quot;&gt;&lt;/a&gt;SFO&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;安檢比台灣嚴格多，例如鞋子也必須脫下來進行掃描，並且每個人都要進到一個小房間進行全身掃描。&lt;/li&gt;
+&lt;li&gt;候機處到處都有插頭可以使用，很方便&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Fails&quot;&gt;&lt;a href=&quot;#Fails&quot; class=&quot;headerlink&quot; title=&quot;Fails&quot;&gt;&lt;/a&gt;Fails&lt;/h2&gt;&lt;p&gt;這邊列一些這次旅行沒有事先考慮清楚，而造成旅行不方便的一些點。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;沒有帶延長線，因為美國旅館的插頭都超級少，但是四個人一堆電器都要用電&lt;/li&gt;
+&lt;li&gt;沒有帶拖鞋，洗完澡後要出房門不太方便&lt;/li&gt;
+&lt;li&gt;帶太多 100 塊，因為很少店家會收，其他錢用完之後就很不方便&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;6/19 ~ 7/5 這段期間我前往美國進行了為期兩個多禮拜的旅行，主要目的是參加 SIGMOD 2016 學術會議，次要目的則是到美國去玩。(但是實際上花的時間是玩比較多XD)&lt;/p&gt;
+&lt;p&gt;因為這次是我第一次去美國，觀察到很多有趣的事情。因此特別將觀察到的事物紀錄在這篇文章之中，讓沒有機會去美國，或者將要去美國的人可以參考看看。&lt;/p&gt;
+&lt;p&gt;關於 SIGMOD 2016 會議的心得與見聞之後會寫在另一篇文章中。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Traveling" scheme="http://www.slmt.tw/categories/traveling/"/>
+    
+      <category term="USA" scheme="http://www.slmt.tw/categories/traveling/usa/"/>
+    
+    
+      <category term="traveling" scheme="http://www.slmt.tw/tags/traveling/"/>
+    
+      <category term="san francisco" scheme="http://www.slmt.tw/tags/san-francisco/"/>
+    
+      <category term="sigmod" scheme="http://www.slmt.tw/tags/sigmod/"/>
+    
+      <category term="usa" scheme="http://www.slmt.tw/tags/usa/"/>
+    
+  </entry>
   
   <entry>
     <title>Rust 任天堂64 模擬器</title>
@@ -113,13 +230,13 @@
 &lt;h2 id=&quot;課程內容分享&quot;&gt;&lt;a href=&quot;#課程內容分享&quot; class=&quot;headerlink&quot; title=&quot;課程內容分享&quot;&gt;&lt;/a&gt;課程內容分享&lt;/h2&gt;&lt;h3 id=&quot;組合語言&quot;&gt;&lt;a href=&quot;#組合語言&quot; class=&quot;headerlink&quot; title=&quot;組合語言&quot;&gt;&lt;/a&gt;組合語言&lt;/h3&gt;&lt;p&gt;一開始先回顧一下 x86 下的架構，包含 registers 與一些 conditional flags 等等。 接著複習了一些 x86 架構下常見的組合語言指令。 這邊有提到 Intel 與 AT&amp;amp;T 兩種 style 不同的寫法，並介紹一些之間的差異等等。&lt;/p&gt;
 &lt;p&gt;最重要的資訊，我想應該就是了解如何做 system call 吧！&lt;/p&gt;
 &lt;p&gt;System call 是一種讓你程式跟作業系統 (Opearating System, OS) 溝通的管道。 舉凡要進行任何需要 OS 幫忙的工作，都要透過 system call。 而在組合語言之中，想要進行 system call，就要使用 interrept 的指令來暫時中斷程式，並轉交權限給 OS。 大概進行的 pattern 就如同下面所示：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;mov		eax, xxx	; 想要 OS 執行的 function 代碼&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mov		ebx, xxx	; function 的第一個參數&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mov		ecx, xxx	; function 的第二個參數&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mov		edx, xxx	; function 的第三個參數&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;int		0x80		; 進行 system call&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;mov		eax, xxx	; 想要 OS 執行的 function 代碼&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;mov		ebx, xxx	; function 的第一個參數&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;mov		ecx, xxx	; function 的第二個參數&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;mov		edx, xxx	; function 的第三個參數&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;...&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;int		0x80		; 進行 system call&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;一開始要先將一些參數存入 registers，&lt;code&gt;eax&lt;/code&gt; 要放你想要 OS 進行的 system call function 代碼。 例如你想要系統讀檔，就要放 3 (sys_read)。 然後，其他 registers，像是 &lt;code&gt;ebx&lt;/code&gt;, &lt;code&gt;ecx&lt;/code&gt;, &lt;code&gt;edx&lt;/code&gt;, &lt;code&gt;esx&lt;/code&gt;, &lt;code&gt;edi&lt;/code&gt; 則是要放呼叫該動作的參數。 例如剛剛說的讀檔，就必須要分別在 &lt;code&gt;ebx&lt;/code&gt;、&lt;code&gt;ecx&lt;/code&gt; 與 &lt;code&gt;edx&lt;/code&gt; 放入 file descriptor、buffer pointer 與想要讀取的大小。 最後再執行 &lt;code&gt;int 0x80&lt;/code&gt; 指令來進行 system call。&lt;/p&gt;
 &lt;p&gt;詳細每個 register 在進行 system call 所需要放的參數可以在 &lt;a href=&quot;http://docs.cs.up.ac.za/programming/asm/derick_tut/syscalls.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;這個表&lt;/a&gt; 找到。&lt;/p&gt;
 &lt;p&gt;我想學這個的目的，除了是為了要能夠對程式做逆向工程之外，也是為了要在之後 inject (注入) shellcode 而使用。 甚至是做更進一步的攻擊。 算是還挺實用的。&lt;/p&gt;
 &lt;h3 id=&quot;Buffer-Overflow&quot;&gt;&lt;a href=&quot;#Buffer-Overflow&quot; class=&quot;headerlink&quot; title=&quot;Buffer Overflow&quot;&gt;&lt;/a&gt;Buffer Overflow&lt;/h3&gt;&lt;p&gt;Buffer overflow 是 C/C++ 常見的漏洞。 只要你的程式之中使用到了陣列或指標，並配合呼叫了不安全的 function，就有可能有潛在的問題。&lt;/p&gt;
 &lt;p&gt;例如下面這段 code：&lt;/p&gt;
-&lt;figure class=&quot;highlight c++&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;char&lt;/span&gt; input[&lt;span class=&quot;number&quot;&gt;50&lt;/span&gt;];&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;scanf&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&quot;%s&quot;&lt;/span&gt;, input);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight c++&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;char&lt;/span&gt; input[&lt;span class=&quot;number&quot;&gt;50&lt;/span&gt;];&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;scanf&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&quot;%s&quot;&lt;/span&gt;, input);&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;這段看起來極其平淡，且在一開始程設課就學過的 code，潛藏著極大的危機存在。&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;scanf&lt;/code&gt; 不會檢查使用者輸入的長度，也不會知道 &lt;code&gt;input&lt;/code&gt; 這個陣列有多大，除非遇到特定的字元，不然他就會持續性地一直讀取輸入值。 而當使用者輸入的長度超過了 &lt;code&gt;input&lt;/code&gt; 的空間，也就是在上例中超過 49 個字元 (最後一個字是 &lt;code&gt;\0&lt;/code&gt;)，就會發生 overflow 的情況。 一般來說 overflow 只會讓程式出現 &lt;code&gt;segmentation fault&lt;/code&gt; 而已，可是有心人士可以利用這個來控制程式的運作方向。&lt;/p&gt;
 &lt;p&gt;區域變數通常是放在 stack 中，stack 除了變數之外，還會放著各式各樣其他的資訊。 像是 function arguments，stack frame pointer，還有最重要的 saved eip。 EIP 是 x86 系統下一個特殊的 register，這個 register 不能直接寫入，只能透過特殊指令來進行修改。 EIP 其重要之處，就是在他負責告訴 CPU，下一個要執行的指令在哪裡。&lt;/p&gt;
@@ -200,10 +317,10 @@
 &lt;p&gt;其他還有像是，會幫你標出 function 內的區域變數，另外也可以幫區塊與變數重新命名等等。善用的話就可以大大幫助逆向工程。&lt;/p&gt;
 &lt;h4 id=&quot;轉換成-C-Code&quot;&gt;&lt;a href=&quot;#轉換成-C-Code&quot; class=&quot;headerlink&quot; title=&quot;轉換成 C Code&quot;&gt;&lt;/a&gt;轉換成 C Code&lt;/h4&gt;&lt;p&gt;就算已經會組合語言，也會使用 IDA Pro，真正看下去的時候也不一定能很快上手。這邊有個很重要的概念在於，你要知道那些 C 語言的程式碼轉換後會變成甚麼樣的組合語言。今天上課他們有稍微提到常見的迴圈和 function call 會大概變成甚麼樣子。如果有稍微記得的話，對還原成 C 的時候會很有幫助。詳情也可以看看他們的投影片。&lt;/p&gt;
 &lt;p&gt;再來，就是要知道一些組合語言的潛規則。像是當你看到了下面這段程式碼：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;push ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;push ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;push ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;call ...&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;push ...&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;push ...&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;push ...&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;call ...&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;也就是一堆 &lt;code&gt;push&lt;/code&gt; 之後接著一個 &lt;code&gt;call&lt;/code&gt;，這其實就是在呼叫 function。&lt;code&gt;push&lt;/code&gt; 將呼叫 function 的參數存入 stack，&lt;code&gt;call&lt;/code&gt; 則是在讓程式的執行跳轉到 function 的程式碼執行。&lt;/p&gt;
 &lt;p&gt;而且事實上，並不是所有呼叫 function 的程式碼都長這樣，有的則是：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;mov    %eax,0x4(%esp)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mov    %ebx,(%esp)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;call   ...&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;mov    %eax,0x4(%esp)&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;mov    %ebx,(%esp)&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;call   ...&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;&lt;code&gt;%eax&lt;/code&gt;、&lt;code&gt;%ebx&lt;/code&gt;、&lt;code&gt;%esp&lt;/code&gt; 都是 register。Register 是 CPU 之中用來暫存資料的空間。其中 &lt;code&gt;%esp&lt;/code&gt; 代表的是 stack 最頂層的位置。這一連串的 &lt;code&gt;mov&lt;/code&gt; 動作其實就等同於 &lt;code&gt;push&lt;/code&gt;，只是 &lt;code&gt;push&lt;/code&gt; 會移動 &lt;code&gt;%esp&lt;/code&gt;，&lt;code&gt;mov&lt;/code&gt; 不會移動。所以這一段程式碼其實跟上一段是差不多的行為。可是沒看過就會覺得怎麼怪怪的。&lt;/p&gt;
 &lt;p&gt;又或者你要知道，通常 function return 的時候，會把 return value 塞在 &lt;code&gt;%eax&lt;/code&gt; 裡面。因此時常在某些 function 回來之後，就會看到程式碼取出 &lt;code&gt;%eax&lt;/code&gt; 的值做其他事情。&lt;/p&gt;
 &lt;p&gt;很多規則都是需要多看幾次或者上網查過才會知道的。&lt;/p&gt;
@@ -252,14 +369,14 @@
 &lt;h4 id=&quot;Kali-Linux&quot;&gt;&lt;a href=&quot;#Kali-Linux&quot; class=&quot;headerlink&quot; title=&quot;Kali Linux&quot;&gt;&lt;/a&gt;Kali Linux&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://www.kali.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Kali Linux&lt;/a&gt; 是 Linux 的其中一個分支，主要是基於 Debian 開發的作業系統。這個系統的特點在於，它具有大量的滲透測試工具，並提供了許多支援，因此成為了駭客們愛用的系統。HITCON 會場也可以看到許多人都在使用。&lt;/p&gt;
 &lt;p&gt;基本上這個系統確實非常方便，甚至對很多人來說都是不可或缺的工具。不過操作上跟一般的 Linux 系統沒甚麼太大的差別，所以也不會太難上手。&lt;/p&gt;
 &lt;h4 id=&quot;特殊-Bash-指令&quot;&gt;&lt;a href=&quot;#特殊-Bash-指令&quot; class=&quot;headerlink&quot; title=&quot;特殊 Bash 指令&quot;&gt;&lt;/a&gt;特殊 Bash 指令&lt;/h4&gt;&lt;p&gt;Shell 的使用算是學習 Linux 很重要的基礎，一般的操作很快就可以上手。不過很不錯的是，他們有教一些進階與特殊的用法。舉個例子來說，在 Bash 中使用 &lt;code&gt;$(...)&lt;/code&gt;，其中包含的指令就是會被執行，而輸出的東西則會變成變數。然後 &lt;code&gt;$0&lt;/code&gt; 這個變數通常指向 &lt;code&gt;bash&lt;/code&gt;。因此如果你讓某些程式，執行了以下這個指令：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$($0)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$($0)&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;就會啟動 shell，讓別人可以為所欲為。(有興趣的人可以用 C 的 &lt;code&gt;system()&lt;/code&gt; 或 python 的 &lt;code&gt;os.system()&lt;/code&gt; 執行看看)&lt;/p&gt;
 &lt;p&gt;這個指令的特點在於沒有使用到任何 &lt;code&gt;bash&lt;/code&gt; 或 &lt;code&gt;sh&lt;/code&gt; 的字樣就啟動了 shell，這樣就可以越過某些過濾式的檢查。&lt;/p&gt;
 &lt;h3 id=&quot;Python-基礎&quot;&gt;&lt;a href=&quot;#Python-基礎&quot; class=&quot;headerlink&quot; title=&quot;Python 基礎&quot;&gt;&lt;/a&gt;Python 基礎&lt;/h3&gt;&lt;p&gt;老實說，我對 python 幾乎一竅不通。最近才開始遵循 &lt;a href=&quot;http://learnpythonthehardway.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Learn Python The Hard Way&lt;/a&gt; 的教學開始入門。今天社課教了不少基礎用法，讓大家快速上手。值得提的是，他們有介紹到一個叫做 &lt;a href=&quot;https://www.hackerrank.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hacker Rank&lt;/a&gt; 的網站，可以讓大家練習 Python。&lt;/p&gt;
 &lt;p&gt;另一點值得講的，他們介紹了一個好用的 Pyhton Module，&lt;a href=&quot;http://pwntools.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Pwntools&lt;/a&gt;。這個工具是專門為 CTF (Capture The Flag) 比賽設計的 module，裡面包含了許多好用的 Python function，讓大家可以快速撰寫出針對某漏洞設計的 Python script。今天我也在之後的練習之中體會到了好處。&lt;/p&gt;
 &lt;h2 id=&quot;課後練習&quot;&gt;&lt;a href=&quot;#課後練習&quot; class=&quot;headerlink&quot; title=&quot;課後練習&quot;&gt;&lt;/a&gt;課後練習&lt;/h2&gt;&lt;p&gt;他們除了上課之外，還很用心地準備了一個練習題給大家測試。這個練習題主要是來自於 Python 的 &lt;a href=&quot;https://docs.python.org/2/library/pickle.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;pickle module&lt;/a&gt; 的漏洞。以下解釋一下這個漏洞。&lt;/p&gt;
 &lt;p&gt;首先可以先看這段程式碼，有興趣的人可執行看看：&lt;/p&gt;
-&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;import&lt;/span&gt; pickle, os&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Exploit&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(object)&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;__reduce__&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(self)&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		comm = &lt;span class=&quot;string&quot;&gt;&quot;sh&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; (os.system, (comm,))&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;a = pickle.dumps(Exploit())&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;b = pickle.loads(a)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;8&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;9&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;import&lt;/span&gt; pickle, os&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Exploit&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(object)&lt;/span&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;__reduce__&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(self)&lt;/span&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		comm = &lt;span class=&quot;string&quot;&gt;&quot;sh&quot;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		&lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; (os.system, (comm,))&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;a = pickle.dumps(Exploit())&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;b = pickle.loads(a)&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;執行後會發現這段程式碼會啟動 shell，為什麼呢？&lt;/p&gt;
 &lt;p&gt;在解釋之前，我們要先了解 pickle 這個 module 是做甚麼的。&lt;/p&gt;
 &lt;p&gt;Pickle module 主要是用來對物件進行 serialize 與 deserialize 的動作。簡單地說，serialize 就是把物件轉換成另一個儲存形式 (像是字串或其他二進位碼)，deserialize 則是把資料還原成物件。其中，&lt;code&gt;pickle.dumps()&lt;/code&gt; 就是在 serialize，&lt;code&gt;pickle.loads()&lt;/code&gt; 就是在 deserialize。&lt;/p&gt;
@@ -344,9 +461,9 @@
 &lt;p&gt;這份文件有提供多種不同的語言供大家閱讀，我看了一下中文的翻譯也沒什麼問題，應該可以安心食用XD&lt;/p&gt;
 &lt;p&gt;那麼接下來就大致介紹一下主要的規則。&lt;/p&gt;
 &lt;h3 id=&quot;版本編號格式&quot;&gt;&lt;a href=&quot;#版本編號格式&quot; class=&quot;headerlink&quot; title=&quot;版本編號格式&quot;&gt;&lt;/a&gt;版本編號格式&lt;/h3&gt;&lt;p&gt;版本編號必須要依照以下格式命名：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[主版本號].[次版本號].[修訂版本號]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;[主版本號].[次版本號].[修訂版本號]&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;以上每個編號都是 &amp;gt;= 0 的數字，下面就是一個符合規則的版本編號：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.0.3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1.0.3&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;每次一發佈新版本的時候就遞增其中一個編號。&lt;/p&gt;
 &lt;h3 id=&quot;每個編號遞增的時機&quot;&gt;&lt;a href=&quot;#每個編號遞增的時機&quot; class=&quot;headerlink&quot; title=&quot;每個編號遞增的時機&quot;&gt;&lt;/a&gt;每個編號遞增的時機&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;主版本號：軟體有重大更新的時候遞增，重大更新通常是指功能與介面都有大幅度變動的時候。&lt;/li&gt;
@@ -357,39 +474,39 @@
 &lt;h3 id=&quot;版本號的比較&quot;&gt;&lt;a href=&quot;#版本號的比較&quot; class=&quot;headerlink&quot; title=&quot;版本號的比較&quot;&gt;&lt;/a&gt;版本號的比較&lt;/h3&gt;&lt;p&gt;比較的規則很簡單，就是從最左邊的數字開始比。比較大的就是比較新的版本。&lt;/p&gt;
 &lt;p&gt;如果數字一樣的話，就比下一個數字。&lt;/p&gt;
 &lt;p&gt;以下是一個比較的例子：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.0.0 &amp;lt; 1.0.1 &amp;lt; 1.1.0 &amp;lt; 1.2.0 &amp;lt; 1.4.5 &amp;lt; 2.0.0 &amp;lt; 2.1.12 &amp;lt; 2.3.2 &amp;lt; 3.0.0 ...&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1.0.0 &amp;lt; 1.0.1 &amp;lt; 1.1.0 &amp;lt; 1.2.0 &amp;lt; 1.4.5 &amp;lt; 2.0.0 &amp;lt; 2.1.12 &amp;lt; 2.3.2 &amp;lt; 3.0.0 ...&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h3 id=&quot;正式版之前的測試版本編號&quot;&gt;&lt;a href=&quot;#正式版之前的測試版本編號&quot; class=&quot;headerlink&quot; title=&quot;正式版之前的測試版本編號&quot;&gt;&lt;/a&gt;正式版之前的測試版本編號&lt;/h3&gt;&lt;p&gt;有些軟體在發布正式版本之前，會先發布測試版本給大眾使用。測試版本不保證沒有任何 bug 或者功能完善。&lt;/p&gt;
 &lt;p&gt;通常測試版的 &lt;code&gt;主版本號&lt;/code&gt; 會是 &lt;code&gt;0&lt;/code&gt;，例如 &lt;code&gt;0.3.1&lt;/code&gt; 就是一個測試版本。&lt;/p&gt;
 &lt;p&gt;而一般會使用 &lt;code&gt;0.1.0&lt;/code&gt; 當作測試版的初始版本號。&lt;/p&gt;
 &lt;h3 id=&quot;提醒&quot;&gt;&lt;a href=&quot;#提醒&quot; class=&quot;headerlink&quot; title=&quot;提醒&quot;&gt;&lt;/a&gt;提醒&lt;/h3&gt;&lt;p&gt;除了以上規則之外，還有些規則的細節沒有提及。如果有興趣的話可以直接看看最上面提供的文件。&lt;/p&gt;
 &lt;h2 id=&quot;命名範例&quot;&gt;&lt;a href=&quot;#命名範例&quot; class=&quot;headerlink&quot; title=&quot;命名範例&quot;&gt;&lt;/a&gt;命名範例&lt;/h2&gt;&lt;p&gt;以下分別以「線上遊戲」與「函式庫」兩者為例。&lt;/p&gt;
 &lt;h3 id=&quot;線上遊戲&quot;&gt;&lt;a href=&quot;#線上遊戲&quot; class=&quot;headerlink&quot; title=&quot;線上遊戲&quot;&gt;&lt;/a&gt;線上遊戲&lt;/h3&gt;&lt;p&gt;假設現在有款 RPG 線上遊戲叫做 &lt;code&gt;小山貓 online&lt;/code&gt;，一開始正式發佈的版本號是：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.0.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1.0.0&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;接著推出一段時間之後，為了增加遊戲的豐富性，新增了一些新的關卡與任務，此時 &lt;code&gt;次版本號&lt;/code&gt; 有可能就會遞增：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.1.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1.1.0&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;新增了新功能不久，有玩家回報在解任務時會卡住，沒辦法繼續。工程師檢查之下發現是 bug，立即修正。因此發佈了 bug 修正版，&lt;code&gt;修正版本號&lt;/code&gt; 遞增：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.1.1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1.1.1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;過了一段時間，又發布了新的關卡與任務，因此 &lt;code&gt;次版本號&lt;/code&gt; 再度遞增，而 &lt;code&gt;修正版本號&lt;/code&gt; 歸零：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.2.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1.2.0&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;就這樣持續了一段時間。隨著時間的推進，現有的地圖與故事似乎無法滿足玩家的需求，因此遊戲公司撰寫了新故事與製作了新地圖，推出了 &lt;code&gt;小山貓的遠征之旅&lt;/code&gt; 大改版！&lt;/p&gt;
 &lt;p&gt;這個時候，遊戲出現了重大更新，所以 &lt;code&gt;主版本號&lt;/code&gt; 很有可能就會遞增，後面的版本號則歸零：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;2.0.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;2.0.0&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;這是一個線上遊戲可能的版本編號命名時機與流程。&lt;/p&gt;
 &lt;h3 id=&quot;函式庫&quot;&gt;&lt;a href=&quot;#函式庫&quot; class=&quot;headerlink&quot; title=&quot;函式庫&quot;&gt;&lt;/a&gt;函式庫&lt;/h3&gt;&lt;p&gt;函式庫的狀況與遊戲不同，因為使用函式庫的人通常是開發其他程式的工程師，所以版本號遞增的時機也會不太一樣。&lt;/p&gt;
 &lt;p&gt;假設我寫了一個 &lt;code&gt;小山貓函式庫&lt;/code&gt;，只要呼叫一個 &lt;code&gt;catMeow()&lt;/code&gt; 這個函式，電腦喇叭就會發出貓咪的叫聲。&lt;/p&gt;
 &lt;p&gt;而版本編號一開始可能訂為：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.0.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1.0.0&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;此時我心血來潮，突然想要新增一個新的函式（新功能），&lt;code&gt;catAnimate()&lt;/code&gt; 函式，呼叫之後程式畫面中就會出現貓咪動畫。&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;次版本號&lt;/code&gt; 可能就會遞增：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.1.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1.1.0&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;我突然接到其他開發者來信，他說他們呼叫了新的 &lt;code&gt;catAnimate()&lt;/code&gt; 之後，沒有出現貓，而是出現狗！&lt;/p&gt;
 &lt;p&gt;這真是太嚴重了！必須要馬上修正這個 bug！因此我發布了一個修訂版本，且遞增了 &lt;code&gt;修訂版本號&lt;/code&gt;：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.1.1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1.1.1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;過了一段時間之後，我覺得現在這個 API 設計不好，我想用物件導向的方式重寫。&lt;/p&gt;
 &lt;p&gt;在重寫之後，任何人使用舊的功能之前，必須要先使用 &lt;code&gt;new Cat()&lt;/code&gt; 建立一個貓咪物件，然後分別呼叫 &lt;code&gt;cat.meow()&lt;/code&gt; 與 &lt;code&gt;cat.animate()&lt;/code&gt; 才能使用之前的功能。&lt;/p&gt;
 &lt;p&gt;這個改變影響到了許多已經寫好程式的開發者，因為他們必須要把所有使用到 &lt;code&gt;小山貓函式庫&lt;/code&gt; 的地方全部改成新的寫法。&lt;/p&gt;
 &lt;p&gt;為了因應這種重大更新，此時必須要遞增 &lt;code&gt;主版本號&lt;/code&gt;：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;2.0.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;2.0.0&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h3 id=&quot;小結&quot;&gt;&lt;a href=&quot;#小結&quot; class=&quot;headerlink&quot; title=&quot;小結&quot;&gt;&lt;/a&gt;小結&lt;/h3&gt;&lt;p&gt;大家應該可以注意到一件事情，通常遊戲的重大更新對玩家來說都是一個令人開心的事件，但是函式庫的重大更新（主版本號遞增）通常對開發者來說就代表著：「Fxxk！程式又要大修了！」&lt;/p&gt;
 &lt;p&gt;開發者會視情況來決定是否要使用大更新後的函式庫。有很多情況是，開發者仍使用舊的版本（像是 &lt;code&gt;小山貓函式庫&lt;/code&gt; 的 &lt;code&gt;1.1.1&lt;/code&gt; 版），而只有開發新程式的時候才會使用最新的版本。&lt;/p&gt;
 &lt;p&gt;例如 OpenGL 某次重大更新之後，大大地修改了繪圖的流程與方式，很多舊的函式都不能呼叫了，因此到現在還是很多人使用舊版。另外像是 Python 3 的更新也改掉了很多語法的使用方式。&lt;/p&gt;
@@ -430,9 +547,9 @@
 &lt;p&gt;舊部落格使用的是 WordPress 系統，當我們發表一篇文章的時候，如果想要在其中嵌入一段程式碼，就會在文章前後加入 &lt;code&gt;&amp;lt;code&amp;gt;...&amp;lt;/code&amp;gt;&lt;/code&gt; tags。&lt;/p&gt;
 &lt;p&gt;不過我後來發現 WordPress 沒有提供 syntax highlighting 的功能，也就是把你的程式碼依照對應的語言以及語法加上容易辨識的顏色。&lt;/p&gt;
 &lt;p&gt;像是假設我現在想要給大家看一段 java code，那我可能就會這樣打：&lt;/p&gt;
-&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;code&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;package slmt.test;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;public class Cat &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    public static void meow() &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        System.out.println(&quot;I&#39;m a cat~ Meow!!&quot;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;code&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;8&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;9&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;code&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;package slmt.test;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;public class Cat &amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    public static void meow() &amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;        System.out.println(&quot;I&#39;m a cat~ Meow!!&quot;);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;code&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;然後顯示出來的效果就會像這樣：&lt;/p&gt;
-&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;package&lt;/span&gt; slmt.test;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Cat&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;meow&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        System.out.println(&lt;span class=&quot;string&quot;&gt;&quot;I&#39;m a cat~ Meow!!&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;package&lt;/span&gt; slmt.test;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Cat&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;meow&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;        System.out.println(&lt;span class=&quot;string&quot;&gt;&quot;I&#39;m a cat~ Meow!!&quot;&lt;/span&gt;);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;但是 WordPress 並沒有提供這樣的功能。&lt;/p&gt;
 &lt;p&gt;幸好在同實驗室的學長 &lt;a href=&quot;http://shaokanp.me/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Pi 先生&lt;/a&gt;的建議下，得知了 &lt;a href=&quot;http://prismjs.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;稜鏡.js&lt;/a&gt; 這套 library。並且在使用之後，確認 WordPress 也能夠很輕易地套用。&lt;/p&gt;
 &lt;p&gt;雖然我現在使用的 jekyll 內已經有內建這項功能了，不過還是將這個 library 分享給大家，讓使用 WordPress 的朋友能夠輕鬆幫自己的 code 上色XD&lt;/p&gt;
@@ -449,11 +566,11 @@
       <category term="Word Press" scheme="http://www.slmt.tw/categories/building-blog/word-press/"/>
     
     
-      <category term="blog" scheme="http://www.slmt.tw/tags/blog/"/>
-    
       <category term="syntax" scheme="http://www.slmt.tw/tags/syntax/"/>
     
       <category term="highlight" scheme="http://www.slmt.tw/tags/highlight/"/>
+    
+      <category term="blog" scheme="http://www.slmt.tw/tags/blog/"/>
     
       <category term="wordpress" scheme="http://www.slmt.tw/tags/wordpress/"/>
     
@@ -491,14 +608,14 @@
 &lt;p&gt;這時我們再點選「檔頭」，可以看到這些資料：&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;/images/20150219003.png&quot;&gt;&lt;img src=&quot;/images/20150219003.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;最重要的是上面「URL」的部分。我們可以看到這個網址是：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;http://www.dcard.tw/api/post/all/85846&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;http://www.dcard.tw/api/post/all/85846&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;&lt;code&gt;www.dcard.tw&lt;/code&gt; 當然是伺服器的網址，而剩下 &lt;code&gt;api/post/all/85846&lt;/code&gt; 就是可以取得這篇文章 JSON object 的位址。&lt;/p&gt;
 &lt;p&gt;這邊大致可以猜到文章的 API 八成是這樣：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;http://www.dcard.tw/api/post/all/[post-id]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;http://www.dcard.tw/api/post/all/[post-id]&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;如果我們將 85846 換成別的數字，像是 84840：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;http://www.dcard.tw/api/post/all/85840&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;http://www.dcard.tw/api/post/all/85840&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;然後把這個網址輸入瀏覽器的網址列，按下 enter，就會出現：&lt;/p&gt;
-&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;forum_alias&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;bg&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;pinned&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;anonymousDepartment&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;anonymousSchool&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;reply&quot;&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;-1&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;updatedAt&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;2015-02-18T18:38:15.890Z&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;createdAt&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;2015-02-18T18:04:07.135Z&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;follow&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;comment&quot;&lt;/span&gt;: [...],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;8&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;9&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;10&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;11&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;12&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;13&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;forum_alias&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;bg&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;pinned&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;false&lt;/span&gt;,&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;anonymousDepartment&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt;,&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;anonymousSchool&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt;,&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;reply&quot;&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;-1&lt;/span&gt;,&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;updatedAt&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;2015-02-18T18:38:15.890Z&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;createdAt&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;2015-02-18T18:04:07.135Z&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;follow&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;false&lt;/span&gt;,&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;string&quot;&gt;&quot;comment&quot;&lt;/span&gt;: [...],&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  ...&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;大致看下來應該可以發現這是另一個文章的 JSON object。&lt;/p&gt;
 &lt;p&gt;那麼毫無疑問，那個數字就是文章的 id(編號)，而那段網址就是能夠取得文章 JSON object 的 API。並且幸運的是，文章編號看起來是從依序給定的。也就是說，假設最新的文章編號是 85846，那我們只需要從 0 掃到 85846，應該就可以取得 Dcard 上所有文章的 JSON object。&lt;/p&gt;
 &lt;p&gt;下次再來說該怎麼抓下來，怎麼處理吧～&lt;/p&gt;

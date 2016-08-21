@@ -23,7 +23,7 @@
   background: #333;
   color: white; }
   .highlight span {
-    font-family: "Consolas", "Courier New"; }
+    font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier; }
   .highlight td.gutter {
     padding-right: 10px;
     border-right: 1px solid #aaa;

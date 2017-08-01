@@ -1,0 +1,108 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  position: relative;
+}
+
+/* To ensure the height of the header will fit the content when the screen is small */
+@media screen and (max-width: 980px) {
+  html, body, header {
+    height: auto;
+  }
+}
+
+header {
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#header-glass {
+  background-color: rgba(1.0, 1.0, 1.0, 0.5);
+}
+
+#basic-info {
+  background-color: rgba(0.0, 0.0, 0.0, 0.5);
+}
+
+.paper {
+  max-width: 640px;
+  margin: auto;
+}
+
+.paper img {
+  width: 100%;
+}
+
+section {
+  padding: 5rem 0;
+}
+
+#researches {
+  background-color: #D7D7D7;
+}
+
+#publications {
+  background-color: #ECECEC;
+}
+
+#talks {
+  background-color: #D7D7D7;
+}
+
+#projects {
+  background-color: #ECECEC;
+}
+
+#skills {
+  background-color: #D7D7D7;
+}
+
+#interests {
+  background-color: #ECECEC;
+}
+
+#vanilladb-logo {
+  max-width: 7rem;
+}
+
+#vanilladb-name {
+  font-size: 2rem;
+  color: #666633;
+}
+
+#vanilladb-name strong {
+  color: #669900;
+}
+
+#elasql-name {
+  font-size: 5rem;
+  color: #00b33c;
+}
+
+#elasql-name strong {
+  color: #007acc;
+}
+
+#interests img {
+  width: 50%;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card .btn {
+  margin: 0.25rem;
+}
+
+.progress {
+  width: 100%;
+}
+
+.prog-lang {
+  font-size: 1.5rem;
+}

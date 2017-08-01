@@ -21,11 +21,11 @@ header {
 }
 
 #header-glass {
-  background-color: rgba(1.0, 1.0, 1.0, 0.5);
+  background-color: rgba(1.0, 1.0, 1.0, 0.75);
 }
 
 #basic-info {
-  background-color: rgba(0.0, 0.0, 0.0, 0.5);
+  background-color: rgba(0.0, 0.0, 0.0, 0.75);
 }
 
 .paper {

@@ -103,8 +103,8 @@
               <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;&nbsp;sam123456777 [AT] gmail.com</p>
               <p><i class="fa fa-briefcase" aria-hidden="true"></i>&nbsp;&nbsp;yslin [AT] datalab.cs.nthu.edu.tw</p>
               <div class="">
-                <a class="btn btn-primary" href="https://twitter.com/sam123456777" role="button"><i class="fa fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;Twitter</a>&nbsp;&nbsp;
-                <a class="btn btn-success" href="https://github.com/SLMT" role="button"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Github</a>
+                <a class="btn btn-primary" href="https://twitter.com/sam123456777" role="button" onclick="ga('send', 'event', 'link', 'open', 'twitter');"><i class="fa fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;Twitter</a>&nbsp;&nbsp;
+                <a class="btn btn-success" href="https://github.com/SLMT" role="button" onclick="ga('send', 'event', 'link', 'open', 'github');"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Github</a>
               </div>
             </div>
           </div>
@@ -140,8 +140,8 @@
               </p>
             </div>
             <div class="text-right">
-              <a class="btn btn-success" data-toggle="collapse" href="#tpart-abstract" aria-expanded="false" aria-controls="tpart-abstract"><i class="fa fa-align-justify" aria-hidden="true"></i>&nbsp;&nbsp;Abstract</a>
-              <a href="papers/tpart.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;Download The Paper</a>
+              <a class="btn btn-success" data-toggle="collapse" href="#tpart-abstract" aria-expanded="false" aria-controls="tpart-abstract" onclick="ga('send', 'event', 'abstract', 'view', 't-part-abstract');"><i class="fa fa-align-justify" aria-hidden="true"></i>&nbsp;&nbsp;Abstract</a>
+              <a href="papers/tpart.pdf" class="btn btn-primary" onclick="ga('send', 'event', 'paper', 'download', 't-part');"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;Download The Paper</a>
             </div>
           </div>
         </div>
@@ -160,8 +160,8 @@
               <p class="card-text text-left">This talk introduces OWASP's Top 3 Application Security Risks, which are easily encountered on the web applications. These risks are Injections, Broken Authentication and Cross-Site Scripting (XSS). The talk gives the audiences an overview of these risks and help them understand the risks by demonstrating some easy examples.</p>
               <h6 class="card-subtitle mb-3 text-muted text-right">Software Studio Course, 2017 Spring in CS, NTHU, Taiwan</h6>
               <div class="">
-                <a class="btn btn-success" href="https://github.com/SLMT/very-secure-website" role="button"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Demo</a>
-                <a href="slides/talk_1_top3_security_risks.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;Download The Slides</a>
+                <a class="btn btn-success" href="https://github.com/SLMT/very-secure-website" role="button" onclick="ga('send', 'event', 'link', 'open', 'web-risk-example');"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Demo</a>
+                <a href="slides/talk_1_top3_security_risks.pdf" class="btn btn-primary" onclick="ga('send', 'event', 'slides', 'download', 'top-3-web-risks');"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;Download The Slides</a>
               </div>
             </div>
           </div>
@@ -172,7 +172,7 @@
               <p class="card-text text-left">This talk introduce VanillaDB, a tutorial oriented relational database management system (RDBMS). First, it gives a few motivations of why we should read source code of RDBMS and introduces some basic background knowledge of RDBMS, such as ACID. Then, the talk bring the audiences go through how a query works in VanillaDB. In the end, it reveals the whole VanillaDB project and our next step.</p>
               <h6 class="card-subtitle mb-3 text-muted text-right">COSCUP 2017 in NTU, Taiwan</h6>
               <div class="">
-                <a href="slides/intro_vanilladb.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;Download The Slides</a>
+                <a href="slides/intro_vanilladb.pdf" class="btn btn-primary" onclick="ga('send', 'event', 'slides', 'download', 'intro-vanilladb');"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;Download The Slides</a>
               </div>
             </div>
           </div>
@@ -197,8 +197,8 @@
             <h4 id="vanilladb-name" class="mt-3">Vanilla<strong>DB</strong></h4>
             <p class="lead">Simple, fast, and extensible database system prototypes.</p>
             <div class="">
-              <a class="btn btn-primary" href="http://www.vanilladb.org/" role="button"><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;&nbsp;Website</a>&nbsp;&nbsp;
-              <a class="btn btn-success" href="https://github.com/vanilladb" role="button"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Github</a>
+              <a class="btn btn-primary" href="http://www.vanilladb.org/" role="button" onclick="ga('send', 'event', 'link', 'open', 'vanilladb-website');"><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;&nbsp;Website</a>&nbsp;&nbsp;
+              <a class="btn btn-success" href="https://github.com/vanilladb" role="button" onclick="ga('send', 'event', 'link', 'open', 'vanilladb-repo');"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Github</a>
             </div>
           </div>
 
@@ -207,8 +207,8 @@
             <h4 id="elasql-name">Ela<strong>SQL</strong></h4>
             <p class="lead">A relational database system made scalable, available, and elastic.</p>
             <div class="">
-              <a class="btn btn-primary" href="http://www.elasql.org/" role="button"><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;&nbsp;Website</a>&nbsp;&nbsp;
-              <a class="btn btn-success" href="https://github.com/elasql" role="button"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Github</a>
+              <a class="btn btn-primary" href="http://www.elasql.org/" role="button" onclick="ga('send', 'event', 'link', 'open', 'elasql-website');"><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;&nbsp;Website</a>&nbsp;&nbsp;
+              <a class="btn btn-success" href="https://github.com/elasql" role="button" onclick="ga('send', 'event', 'link', 'open', 'elasql-repo');"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Github</a>
             </div>
           </div>
         </div>
@@ -223,9 +223,9 @@
               <h4 class="card-title">Tutorial Channel</h4>
               <h5><span class="badge badge-success">C#</span></h5>
               <p class="card-text">A Youtube channel that has lots of tutrials about computers. I am currently teaching <strong>C# Programming</strong> for now.</p>
-              <a class="btn btn-warning" href="http://slmtsite.blogspot.tw/" role="button"><i class="fa fa-google" aria-hidden="true"></i>&nbsp;&nbsp;Blog</a>
-              <a class="btn btn-danger" href="https://www.youtube.com/channel/UCmumrs_hb9s6eoVI29gLBgA" role="button"><i class="fa fa-youtube-play" aria-hidden="true"></i>&nbsp;&nbsp;Channel</a>
-              <a class="btn btn-primary" href="https://www.facebook.com/slmttutorialchannel/" role="button"><i class="fa fa-facebook-official" aria-hidden="true"></i>&nbsp;&nbsp;FB Page</a>
+              <a class="btn btn-warning" href="http://slmtsite.blogspot.tw/" role="button" onclick="ga('send', 'event', 'link', 'open', 'tutorial-blog');"><i class="fa fa-google" aria-hidden="true"></i>&nbsp;&nbsp;Blog</a>
+              <a class="btn btn-danger" href="https://www.youtube.com/channel/UCmumrs_hb9s6eoVI29gLBgA" role="button" onclick="ga('send', 'event', 'link', 'open', 'tutorial-youtube');"><i class="fa fa-youtube-play" aria-hidden="true"></i>&nbsp;&nbsp;Channel</a>
+              <a class="btn btn-primary" href="https://www.facebook.com/slmttutorialchannel/" role="button" onclick="ga('send', 'event', 'link', 'open', 'tutorial-fb');"><i class="fa fa-facebook-official" aria-hidden="true"></i>&nbsp;&nbsp;FB Page</a>
             </div>
           </div>
 
@@ -235,8 +235,8 @@
               <h4 class="card-title">Google C++ Style Guide<br/>Zh-TW Translation</h4>
               <h5><span class="badge badge-primary">C++</span></h5>
               <p class="card-text">A Traditional Chinese translation for <a href="https://google.github.io/styleguide/cppguide.html">Google C++ Style Guide</a>.</p>
-              <a class="btn btn-info" href="https://www.gitbook.com/book/slmt/google-cpp-style-guide-zh-tw/details" role="button"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;GitBook</a>
-              <a class="btn btn-success" href="https://github.com/SLMT/google-cpp-style-guide-zh-tw" role="button"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Repository</a>
+              <a class="btn btn-info" href="https://www.gitbook.com/book/slmt/google-cpp-style-guide-zh-tw/details" role="button" onclick="ga('send', 'event', 'link', 'open', 'google-cpp-style-gitbook');"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;GitBook</a>
+              <a class="btn btn-success" href="https://github.com/SLMT/google-cpp-style-guide-zh-tw" role="button" onclick="ga('send', 'event', 'link', 'open', 'google-cpp-style-github');"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Repository</a>
             </div>
           </div>
 
@@ -247,7 +247,7 @@
               <h4 class="card-title">OGLdev Tutorials in Rust</h4>
               <h5><span class="badge badge-warning">Rust</span></h5>
               <p class="card-text">A collection of example code in Rust for Tutorial <a href="http://ogldev.atspace.co.uk/">OGLdev</a>.</p>
-              <a class="btn btn-success" href="https://github.com/SLMT/rust-ogldev" role="button"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Repository</a>
+              <a class="btn btn-success" href="https://github.com/SLMT/rust-ogldev" role="button" onclick="ga('send', 'event', 'link', 'open', 'rust-ogldev');"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Repository</a>
             </div>
           </div>
 
@@ -258,7 +258,7 @@
               <h4 class="card-title">Rust Snake</h4>
               <h5><span class="badge badge-warning">Rust</span></h5>
               <p class="card-text">A Snake game written in Rust.</p>
-              <a class="btn btn-success" href="https://github.com/SLMT/rust-snake" role="button"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Repository</a>
+              <a class="btn btn-success" href="https://github.com/SLMT/rust-snake" role="button" onclick="ga('send', 'event', 'link', 'open', 'rust-snake');"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Repository</a>
             </div>
           </div>
 
@@ -268,7 +268,7 @@
               <h4 class="card-title">PTT BBS in Rust</h4>
               <h5><span class="badge badge-warning">Rust</span></h5>
               <p class="card-text">A Rust implementation for <a href="https://github.com/ptt/pttbbs">PTT BBS</a> .</p>
-              <a class="btn btn-success" href="https://github.com/SLMT/rust-ptt" role="button"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Repository</a>
+              <a class="btn btn-success" href="https://github.com/SLMT/rust-ptt" role="button" onclick="ga('send', 'event', 'link', 'open', 'rust-ptt');"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Repository</a>
             </div>
           </div>
         </div>

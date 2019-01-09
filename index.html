@@ -110,7 +110,7 @@
         </div>
 
         <!-- A describtion of The Background -->
-        <p class="text-center text-white">2017/6/30 @ TGDF - INDIE SPACE, Taipei</p>
+        <p class="text-center text-white">2018/1/26 @ Yasuda Auditorium, University of Tokyo, Japan</p>
       </div>
     </header>
 
@@ -126,23 +126,49 @@
     <section id="publications">
       <div class="container">
         <h1 class="text-center mb-4 display-4">Publications</h1>
-        <div class="card card-inverse bg-inverse paper">
-          <img class="card-top-img" src="images/tpart-paper.png" alt="T-Part Paper">
-          <div class="card-block">
-            <h4 class="card-title">T-Part: Partitioning of Transactions for Forward-Pushing in Deterministic Database Systems</h4>
-            <h6 class="card-subtitle mb-2 text-muted">in Proc. of the 2016 ACM Int'l Conf. on Management of Data (SIGMOD), June 2016</h6>
-            <p class="card-text">Shan-Hung Wu, Tsai-Yu Feng, Meng-Kai Liao, Shao-Kan Pi, and <strong>Yu-Shan Lin</strong></p>
-            <div class="collapse" id="tpart-abstract">
-              <h5>Abstract</h5>
-              <p>
-                Deterministic database systems, a type of NewSQL database systems, have been shown to yield high throughput on a cluster of commodity machines while ensuring the strong consistency between replicas, provided that the data can be well-partitioned on these machines. However, data partitioning can be suboptimal for many reasons in real-world applications. In this paper, we present T-Part, a transaction execution engine that partitions transactions in a deterministic database system to deal with the unforeseeable workloads or workloads whose data are hard to partition. By modeling the dependency between transactions as a T-graph and continuously partitioning that graph, T-Part allows each transaction to know which later transactions on other machines will read its writes so that it can push forward the writes to those later transactions immediately after committing. This forward-pushing reduces the chance that the later transactions stall due to the unavailability of remote data. We implement a prototype for T-Part. Extensive experiments are conducted and the results demonstrate the effectiveness of T-Part.
-              </p>
-            </div>
-            <div class="text-right">
-              <a class="btn btn-success" data-toggle="collapse" href="#tpart-abstract" aria-expanded="false" aria-controls="tpart-abstract"><i class="fa fa-align-justify" aria-hidden="true"></i>&nbsp;&nbsp;Abstract</a>
-              <a href="papers/tpart.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;Download The Paper</a>
+        
+        <div class="card-deck">
+
+          <!-- T-Part -->
+          <div class="card card-inverse bg-inverse paper">
+            <img class="card-top-img" src="images/tpart-paper.png" alt="T-Part Paper">
+            <div class="card-block">
+              <h4 class="card-title">T-Part: Partitioning of Transactions for Forward-Pushing in Deterministic Database Systems</h4>
+              <h6 class="card-subtitle mb-2 text-muted">in Proc. of the 2016 ACM Int'l Conf. on Management of Data (SIGMOD), June 2016</h6>
+              <p class="card-text">Shan-Hung Wu, Tsai-Yu Feng, Meng-Kai Liao, Shao-Kan Pi, and <strong>Yu-Shan Lin</strong></p>
+              <div class="collapse" id="tpart-abstract">
+                <h5>Abstract</h5>
+                <p>
+                  Deterministic database systems, a type of NewSQL database systems, have been shown to yield high throughput on a cluster of commodity machines while ensuring the strong consistency between replicas, provided that the data can be well-partitioned on these machines. However, data partitioning can be suboptimal for many reasons in real-world applications. In this paper, we present T-Part, a transaction execution engine that partitions transactions in a deterministic database system to deal with the unforeseeable workloads or workloads whose data are hard to partition. By modeling the dependency between transactions as a T-graph and continuously partitioning that graph, T-Part allows each transaction to know which later transactions on other machines will read its writes so that it can push forward the writes to those later transactions immediately after committing. This forward-pushing reduces the chance that the later transactions stall due to the unavailability of remote data. We implement a prototype for T-Part. Extensive experiments are conducted and the results demonstrate the effectiveness of T-Part.
+                </p>
+              </div>
+              <div class="text-right">
+                <a class="btn btn-success" data-toggle="collapse" href="#tpart-abstract" aria-expanded="false" aria-controls="tpart-abstract"><i class="fa fa-align-justify" aria-hidden="true"></i>&nbsp;&nbsp;Abstract</a>
+                <a href="papers/tpart.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;Download The Paper</a>
+              </div>
             </div>
           </div>
+
+          <!-- MgCrab -->
+          <div class="card card-inverse bg-inverse paper">
+            <img class="card-top-img" src="images/mgcrab-paper.png" alt="MgCrab Paper">
+            <div class="card-block">
+              <h4 class="card-title">MgCrab: Transaction Crabbing for Live Migration in Deterministic Database Systems</h4>
+              <h6 class="card-subtitle mb-2 text-muted">in VLDB 2019 (Accepted)</h6>
+              <p class="card-text"><strong>Yu-Shan Lin</strong>, Shao-Kan Pi, Meng-Kai Liao, Ching Tsai, Aaron Elmore, and Shan-Hung Wu</p>
+              <div class="collapse" id="mgcrab-abstract">
+                <h5>Abstract</h5>
+                <p>
+                  Recent deterministic database systems have achieved high scalability and high availability in distributed environments given OLTP workloads. However, modern OLTP applications usually have changing workloads or access patterns, so how to make the resource provisioning elastic to the changing workloads becomes an important design goal for a deterministic database system. Live migration, which moves the specified data from a source machine to a destination node while continuously serving the incoming transactions, is a key technique required for the elasticity. In this paper, we present MgCrab, a live migration technique for a deterministic database system, that leverages the determinism to maintain the consistency of data on the source and destination nodes at very low cost during a migration period. We implement MgCrab on an open-source database system. Extensive experiments were conducted and the results demonstrate the effectiveness of MgCrab.
+                </p>
+              </div>
+              <div class="text-right">
+                <a class="btn btn-success" data-toggle="collapse" href="#mgcrab-abstract" aria-expanded="false" aria-controls="mgcrab-abstract"><i class="fa fa-align-justify" aria-hidden="true"></i>&nbsp;&nbsp;Abstract</a>
+                <a href="#" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;Coming Soon</a>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </section>
@@ -432,7 +458,7 @@
 
     <!-- Footer -->
     <footer>
-      <p class="text-center py-5 my-0 bg-inverse text-white">Copyright &copy; Yu-Shan Lin, 2017</p>
+      <p class="text-center py-5 my-0 bg-inverse text-white">Copyright &copy; Yu-Shan Lin, 2017-2019</p>
     </footer>
 
     <!-- Scripts for Bootstrap -->

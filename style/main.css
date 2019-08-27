@@ -112,3 +112,8 @@ section {
 .prog-lang {
   font-size: 1.5rem;
 }
+
+.btn {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}

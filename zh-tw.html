@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-103835191-1"></script>
@@ -16,11 +16,20 @@
 
     <title>林玉山 (SLMT)</title>
 
-    <meta name="Description" content="一個在台灣清華大學 Datalab 實驗室做資料庫系統研究的博士班學生">
+    <!-- Information about this website -->
+    <meta name="Description" content="一個在台灣清華大學 Datalab 實驗室做資料庫系統研究的博士候選人">
     <meta name="author" content="Yu-Shan Lin">
 
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <!-- For Facebook Sharing -->
+    <meta property="og:title" content="Yu-Shan Lin (SLMT)"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://www.slmt.tw/"/>
+    <meta property="og:image" content="http://www.slmt.tw/images/head-cat.jpg"/>
+    <meta property="og:description" content="A PhD student currently doing DBMS researches in DataLab, NTHU, Taiwan."/>
+    <meta property="og:locale" content="en_US" />
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
     <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/bd299b3d18.js"></script>
@@ -28,61 +37,47 @@
     <!-- My Stylesheet -->
     <link rel="stylesheet" href="style/main.css">
   </head>
-  <body data-spy="scroll" data-target="#navbar-links">
+  <body>
     <!-- Preload Background Image -->
     <img src="images/background.jpg" style="display:none;" />
-
+    
     <!-- Fixed Navigation Bar -->
-    <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top">
-      <!-- toggler button (only shown when the screen is small) -->
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar-links" aria-controls="navbar-links" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container-fluid">
+        
+        <!-- Brand -->
+        <h1 class="navbar-brand mb-0">Yu-Shan Lin (SLMT)</h1>
 
-      <!-- brand -->
-      <h1 class="navbar-brand mb-0">Yu-Shan Lin (SLMT)</h1>
-
-      <!-- links -->
-      <div class="collapse navbar-collapse" id="navbar-links">
-        <ul class="navbar-nav">
-          <li class="nav-item">
+        <!-- Menu Button -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        
+        <!-- Links -->
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
             <a class="nav-link active" href="#top">首頁</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#researches">研究主題</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#publications">著作</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#talks">演講</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#projects">專案</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#skills">技能</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#interests">興趣</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="blog/index.html">部落格</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="index.html">English</a>
-          </li>
-        </ul>
+            <a class="nav-link" href="zh-tw.html">English</a>
+          </div>
+        </div>
       </div>
     </nav>
 
     <!-- Top - Self Introduction -->
-    <header id="top" class="h-100">
-      <div id="header-glass" class="h-100 d-flex flex-column justify-content-between">
-        <!-- Placehold for justify-content-between -->
-        <div class=""></div>
+    <header id="top" class="min-vh-100">
+      <!-- A glass to cover the background, also used to create a flex container -->
+      <div id="header-glass" class="min-vh-100 d-flex flex-column justify-content-between">
+        <!-- A Placeholder for justify-content-between -->
+        <div></div>
 
-        <!-- Introduction Block -->
+        <!-- Introduction block -->
         <div class="container">
           <div class="row">
             <div class="col-lg-4 my-lg-0 mt-5 mb-2 text-center">
@@ -90,123 +85,182 @@
             </div>
             <div id="basic-info" class="col-lg-8 d-flex flex-column justify-content-center text-white rounded px-5 py-4">
               <h1 class>林玉山 (Yu-Shan Lin)</h1>
-              <p class="lead">一個在台灣清華大學 Datalab 實驗室做資料庫系統研究的博士班學生</p>
+              <p class="lead">一個在台灣清華大學 Datalab 實驗室做資料庫系統研究的博士候選人</p>
               <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;&nbsp;sam123456777 [AT] gmail.com</p>
               <p><i class="fa fa-briefcase" aria-hidden="true"></i>&nbsp;&nbsp;yslin [AT] datalab.cs.nthu.edu.tw</p>
               <div class="">
                 <a class="btn btn-primary" href="https://twitter.com/sam123456777" role="button"><i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;Twitter</a>&nbsp;&nbsp;
                 <a class="btn btn-success" href="https://github.com/SLMT" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Github</a>&nbsp;&nbsp;
-                <a class="btn btn-warning" href="docs/yslin-cv.pdf" role="button"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;CV</a>
+                <a class="btn btn-warning" href="docs/yslin-cv.pdf" role="button"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;履歷</a>
               </div>
             </div>
           </div>
         </div>
 
-        <!-- A describtion of The Background -->
-        <p class="text-center text-white">2019/3/26 @ 台北市萬華剝皮寮歷史街區</p>
+        <!-- A description for the background -->
+        <p class="text-center text-white">2021 年 5 月 19 日 攝於 台灣新竹市國立清華大學</p>
       </div>
     </header>
 
     <!-- Researches -->
     <section id="researches">
       <div class="container text-center">
-        <h1 class="display-4 mb-4 text-center">我在 Datalab 實驗室的研究領域</h1>
-        <h3>雲端資料庫系統 暨 分散式資料庫系統</h3>
+        <h1 class="display-4 mb-4">我的研究題目</h1>
+        <h3>具有高延展、高可得、彈性等特性的關聯式資料庫系統</h3>
       </div>
     </section>
-
+    
     <!-- Publications -->
     <section id="publications">
       <div class="container">
-        <h1 class="text-center mb-4 display-4">發表著作</h1>
+        <h1 class="text-center mb-5 display-4">發表著作</h1>
         
-        <div class="card-deck">
-
-          <!-- T-Part -->
-          <div class="card card-inverse bg-inverse paper">
-            <img class="card-top-img" src="images/paper-tpart.png" alt="T-Part Paper">
-            <div class="card-block">
-              <h4 class="card-title">T-Part: Partitioning of Transactions for Forward-Pushing in Deterministic Database Systems</h4>
-              <h6 class="card-subtitle mb-2 text-muted">in Proc. of the 2016 ACM Int'l Conf. on Management of Data (SIGMOD), June 2016</h6>
-              <p class="card-text">Shan-Hung Wu, Tsai-Yu Feng, Meng-Kai Liao, Shao-Kan Pi, and <strong>Yu-Shan Lin</strong></p>
-              <div class="collapse" id="tpart-abstract">
-                <h5>摘要</h5>
-                <p>
-                  先決式資料庫系統 (Deterministic Database Systems)，一種 NewSQL 資料庫系統，已經被證明可以在一個由一般消費型機器組成的叢集之上，與資料都良好分割的情況下展現極高吞吐量的效能，並同時在多個備份之間維持強一致性 (Strong Consistency)。然而，資料分割在現實世界中不是都能夠那麼完美。在這篇論文之中，我們提出 T-Part，一種在先決式系統中運作，針對難以預測的工作量或是難以切割的資料運行的交易執行引擎 (transaction execution engine)。藉由將交易之間的相依關係建立成 T-Graph，並持續地分割這個圖形，T-Part 能夠讓每個交易知道哪些在其他機器上的交易在接下來會讀寫它的資料。如此一來，每個交易就可以將資料直接推送給它的下一個交易。這種我們稱之為「前向推送 (Forward-Pushing) 的技術可以減少後面執行的交易等待資料從遠方機器送來的時間。我們實作了 T-Part 的原型，並以實驗證明了 T-Part 的效能。
-                </p>
+        <!-- T-Part -->
+        <div class="card text-white bg-dark mb-4">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="d-flex bg-white h-100">
+                <img class="d-block m-auto p-3" src="images/paper-tpart.png" alt="T-Part Paper">
               </div>
-              <div class="text-right">
-                <a class="btn btn-success" data-toggle="collapse" href="#tpart-abstract" aria-expanded="false" aria-controls="tpart-abstract"><i class="fa fa-align-justify" aria-hidden="true"></i>&nbsp;&nbsp;摘要</a>
-                <a href="papers/tpart.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;下載</a>
+            </div>
+            <div class="col-md-8">
+              <div class="card-body d-flex flex-column justify-content-center h-100">
+                <h5 class="card-title">T-Part: Partitioning of Transactions for Forward-Pushing in Deterministic Database Systems</h5>
+                <h6 class="card-subtitle mb-2 text-muted">in Proc. of the 2016 ACM Int'l Conf. on Management of Data (SIGMOD), June 2016</h6>
+                <p class="card-text">Shan-Hung Wu, Tsai-Yu Feng, Meng-Kai Liao, Shao-Kan Pi, and <strong>Yu-Shan Lin</strong></p>
+                <div class="collapse" id="tpart-abstract">
+                  <h5>摘要</h5>
+                  <p>
+                    Deterministic database systems, a type of NewSQL database systems, have been shown to yield high throughput on a cluster of commodity machines while ensuring the strong consistency between replicas, provided that the data can be well-partitioned on these machines. However, data partitioning can be suboptimal for many reasons in real-world applications. In this paper, we present T-Part, a transaction execution engine that partitions transactions in a deterministic database system to deal with the unforeseeable workloads or workloads whose data are hard to partition. By modeling the dependency between transactions as a T-graph and continuously partitioning that graph, T-Part allows each transaction to know which later transactions on other machines will read its writes so that it can push forward the writes to those later transactions immediately after committing. This forward-pushing reduces the chance that the later transactions stall due to the unavailability of remote data. We implement a prototype for T-Part. Extensive experiments are conducted and the results demonstrate the effectiveness of T-Part.
+                  </p>
+                </div>
+                <div>
+                  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#tpart-abstract" aria-expanded="false" aria-controls="tpart-abstract"><i class="fa fa-align-justify" aria-hidden="true"></i>&nbsp;&nbsp;摘要</button>
+                  <a href="papers/tpart.pdf" class="btn btn-success"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;論文</a>
+                </div>
               </div>
             </div>
           </div>
-
-          <!-- MgCrab -->
-          <div class="card card-inverse bg-inverse paper">
-            <img class="card-top-img" src="images/paper-mgcrab.png" alt="MgCrab Paper">
-            <div class="card-block">
-              <h4 class="card-title">MgCrab: Transaction Crabbing for Live Migration in Deterministic Database Systems</h4>
-              <h6 class="card-subtitle mb-2 text-muted">in Proc. of the VLDB Endowment 12.5 (2019): 597-610</h6>
-              <p class="card-text"><strong>Yu-Shan Lin</strong>, Shao-Kan Pi, Meng-Kai Liao, Ching Tsai, Aaron Elmore, and Shan-Hung Wu</p>
-              <div class="collapse" id="mgcrab-abstract">
-                <h5>Abstract</h5>
-                <p>
-                  Recent deterministic database systems have achieved high scalability and high availability in distributed environments given OLTP workloads. However, modern OLTP applications usually have changing workloads or access patterns, so how to make the resource provisioning elastic to the changing workloads becomes an important design goal for a deterministic database system. Live migration, which moves the specified data from a source machine to a destination node while continuously serving the incoming transactions, is a key technique required for the elasticity. In this paper, we present MgCrab, a live migration technique for a deterministic database system, that leverages the determinism to maintain the consistency of data on the source and destination nodes at very low cost during a migration period. We implement MgCrab on an open-source database system. Extensive experiments were conducted and the results demonstrate the effectiveness of MgCrab.
-                </p>
-              </div>
-              <div class="text-right">
-                <a class="btn btn-success" data-toggle="collapse" href="#mgcrab-abstract" aria-expanded="false" aria-controls="mgcrab-abstract"><i class="fa fa-align-justify" aria-hidden="true"></i>&nbsp;&nbsp;摘要</a>
-                <a href="http://www.vldb.org/pvldb/vol12/p597-lin.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;下載論文 (VLDB 官網)</a>
-                <a href="papers/mgcrab-long.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;下載論文 (含附錄)</a>
-                <a href="slides/20190829_mgcrab.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;下載投影片</a>
-              </div>
-            </div>
-          </div>
-  
         </div>
+
+        <!-- MgCrab -->
+        <div class="card text-white bg-dark mb-4">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="d-flex bg-white h-100">
+                <img class="d-block m-auto py-4 px-3" src="images/paper-mgcrab.png" alt="MgCrab Paper">
+              </div>
+            </div>
+            <div class="col-md-8">
+              <div class="card-body d-flex flex-column justify-content-center h-100">
+                <h5 class="card-title">MgCrab: Transaction Crabbing for Live Migration in Deterministic Database Systems</h5>
+                <h6 class="card-subtitle mb-2 text-muted">in Proc. of the VLDB Endowment 12.5 (2019): 597-610</h6>
+                <p class="card-text"><strong>Yu-Shan Lin</strong>, Shao-Kan Pi, Meng-Kai Liao, Ching Tsai, Aaron Elmore, and Shan-Hung Wu</p>
+                <div class="collapse" id="mgcrab-abstract">
+                  <h5>摘要</h5>
+                  <p>
+                    Recent deterministic database systems have achieved high scalability and high availability in distributed environments given OLTP workloads. However, modern OLTP applications usually have changing workloads or access patterns, so how to make the resource provisioning elastic to the changing workloads becomes an important design goal for a deterministic database system. Live migration, which moves the specified data from a source machine to a destination node while continuously serving the incoming transactions, is a key technique required for the elasticity. In this paper, we present MgCrab, a live migration technique for a deterministic database system, that leverages the determinism to maintain the consistency of data on the source and destination nodes at very low cost during a migration period. We implement MgCrab on an open-source database system. Extensive experiments were conducted and the results demonstrate the effectiveness of MgCrab.
+                  </p>
+                </div>
+                <div>
+                  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#mgcrab-abstract" aria-expanded="false" aria-controls="mgcrab-abstract"><i class="fa fa-align-justify" aria-hidden="true"></i>&nbsp;&nbsp;摘要</button>
+                  <a href="http://www.vldb.org/pvldb/vol12/p597-lin.pdf" class="btn btn-success"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;論文</a>
+                  <a href="papers/mgcrab-long.pdf" class="btn btn-success"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;論文&nbsp;(包含附錄)</a>
+                  <a href="slides/20190829_mgcrab.pdf" class="btn btn-warning"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;投影片</a>
+                  <a href="https://github.com/elasql/documentation/blob/master/doc/reproduce_mgcrab.md" class="btn btn-info"><i class="fab fa-github"></i>&nbsp;&nbsp;程式碼</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Hermes -->
+        <div class="card text-white bg-dark mb-4">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="d-flex bg-white h-100">
+                <img class="d-block m-auto py-4 px-3" src="images/paper-hermes.png" alt="Hermes Paper">
+              </div>
+            </div>
+            <div class="col-md-8">
+              <div class="card-body d-flex flex-column justify-content-center h-100">
+                <h5 class="card-title">Don't Look Back, Look into the Future:Prescient Data Partitioning and Migration for Deterministic Database Systems</h5>
+                <h6 class="card-subtitle mb-2 text-muted">in Proc. of the 2021 ACM Int'l Conf. on Management of Data (SIGMOD), June 2021</h6>
+                <p class="card-text"><strong>Yu-Shan Lin</strong>, Ching Tsai, Tz-Yu Lin, Yun-Sheng Chang, and Shan-Hung Wu</p>
+                <div class="collapse" id="hermes-abstract">
+                  <h5>摘要</h5>
+                  <p>
+                    Deterministic database systems have been shown to significantly improve the availability and scalability of a distributed database system deployed on a shared-nothing architecture across WAN while ensuring strong consistency. However, their scalability and performance advantages highly depend on the quality of data partitioning due to the reduced flexibility in transaction processing. Although a deterministic database system can employ workload driven data (re-)partitioning and live data migration algorithms to partition data, we found that the effectiveness of these algorithms is limited in complex real-world environments due to the unpredictability of machine workloads. In this paper, we present Hermes, a deterministic database system prototype that, for the first time, does not rely on sophisticated data partitioning to achieve high scalability and performance. Hermes employs a novel transaction routing mechanism that jointly optimizes the balance of machine workloads, data (re-)partitioning, and live data migration by looking into the queued transactions to be executed in the near future. We conducted extensive experiments which show that Hermes is able to yield 29% to 137% increase in transaction throughput as compared to the state-of-the-art systems under complex real-world workloads.
+                  </p>
+                </div>
+                <div>
+                  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#hermes-abstract" aria-expanded="false" aria-controls="hermes-abstract"><i class="fa fa-align-justify" aria-hidden="true"></i>&nbsp;&nbsp;摘要</button>
+                  <a href="papers/hermes.pdf" class="btn btn-success"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;論文</a>
+                  <a href="papers/hermes-sup.pdf" class="btn btn-success"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;補充資料</a>
+                  <a href="slides/20210403_hermes.pdf" class="btn btn-warning"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;投影片</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </section>
 
     <!-- Talks -->
     <section id="talks">
       <div class="container">
-        <h1 class="display-4 mb-4 text-center">演講</h1>
-        <div class="card-deck text-center">
-          <div class="card">
-            <div class="card-block d-flex flex-column justify-content-center">
-              <h4 class="card-title">淺談前三大網路漏洞</h4>
-              <h5 class="card-subtitle mb-2 text-muted">2017/5/10</h5>
-              <p class="card-text text-left">這個演講介紹了網路中常遇到的三大安全漏洞。這些漏洞包括注入攻擊 (Injection)、驗證缺失 (Broken Authentication)與跨站腳本攻擊 (Cross-Site Scripting)。演講中會先讓聽眾大致了解這個漏洞的型態，以及利用一些簡單的範例來幫助大家更深入了解如何利用這些漏洞。</p>
-              <h6 class="card-subtitle mb-3 text-muted text-right">清華大學 資工系 2017 年春天 軟體實驗課</h6>
-              <div class="">
-                <a class="btn btn-success" href="https://github.com/SLMT/very-secure-website" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;範例展示</a>
-                <a href="slides/20170510_top3_security_risks.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;下載投影片</a>
+        <h1 class="display-4 mb-5 text-center">演講</h1>
+
+        <!-- Talk Cards -->
+        <div class="row row-cols-1 row-cols-lg-3 text-center">
+          
+          <!-- 2017/05/10 - Security Talk -->
+          <div class="col">
+            <div class="card col p-4 mb-4">
+              <div class="card-block d-flex flex-column justify-content-center">
+                <h4 class="card-title">淺談前三大網路漏洞</h4>
+                <h5 class="card-subtitle mb-2 text-muted">2017/5/10</h5>
+                <p class="card-text text-left">這個演講介紹了網路中常遇到的三大安全漏洞。這些漏洞包括注入攻擊 (Injection)、驗證缺失 (Broken Authentication)與跨站腳本攻擊 (Cross-Site Scripting)。演講中會先讓聽眾大致了解這個漏洞的型態，以及利用一些簡單的範例來幫助大家更深入了解如何利用這些漏洞。</p>
+                <h6 class="card-subtitle mb-3 text-muted text-right">清華大學 資工系 2017 年春天 軟體實驗課</h6>
+                <div class="">
+                  <a class="btn btn-success" href="https://github.com/SLMT/very-secure-website" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;範例展示</a>
+                  <a href="slides/20170510_top3_security_risks.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;投影片</a>
+                </div>
               </div>
             </div>
           </div>
-          <div class="card">
-            <div class="card-block d-flex flex-column justify-content-center">
-              <h4 class="card-title">VanillaDB - 由淺入深的教學型 RDBMS</h4>
-              <h5 class="card-subtitle mb-2 text-muted">2017/8/5</h5>
-              <p class="card-text text-left">這個演講介紹 VanillaDB，一個教學用途的關聯式資料庫系統 (RDBMS)。一開始會先給大家一些動機，讓大家了解為什麼要看這種系統的程式碼，以及介紹一些關於 RDBMS 的背景知識，像是 ACID。接著，這個演講會帶聽眾深入了解一個查詢 (Query) 在 VanillaDB 是怎麼被執行的，以及一些開發這類系統會遇到的問題。最後，演講會揭露整個 VanillaDB 專案的全貌，以及我們的下一步。</p>
-              <h6 class="card-subtitle mb-3 text-muted text-right">COSCUP 2017 於 台灣大學</h6>
-              <div class="">
-                <a href="slides/20170805_intro_vanilladb.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;下載投影片</a>
+
+          <!-- 2017/08/05 - VanillaDB -->
+          <div class="col">
+            <div class="card col p-4 mb-4">
+              <div class="card-block d-flex flex-column justify-content-center">
+                <h4 class="card-title">VanillaDB - 由淺入深的教學型 RDBMS</h4>
+                <h5 class="card-subtitle mb-2 text-muted">2017/8/5</h5>
+                <p class="card-text text-left">這個演講介紹 VanillaDB，一個教學用途的關聯式資料庫系統 (RDBMS)。一開始會先給大家一些動機，讓大家了解為什麼要看這種系統的程式碼，以及介紹一些關於 RDBMS 的背景知識，像是 ACID。接著，這個演講會帶聽眾深入了解一個查詢 (Query) 在 VanillaDB 是怎麼被執行的，以及一些開發這類系統會遇到的問題。最後，演講會揭露整個 VanillaDB 專案的全貌，以及我們的下一步。</p>
+                <h6 class="card-subtitle mb-3 text-muted text-right">COSCUP 2017 於 台灣大學</h6>
+                <div class="">
+                  <a href="slides/20170805_intro_vanilladb.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;投影片</a>
+                </div>
               </div>
             </div>
           </div>
-          <div class="card">
-            <div class="card-block d-flex flex-column justify-content-center">
-              <h4 class="card-title">淺談 RDBMS 運作原理</h4>
-              <h5 class="card-subtitle mb-2 text-muted">2018/3/14</h5>
-              <p class="card-text text-left">這個演講將會簡單地帶大家入門 RDBMS 的運作原理。一開始會先介紹 Query 的一天，接著介紹開發 storage engine 時可能會要考慮甚麼。最後帶大家了解如何實作 RDBMS 最重要的 ACID 特性。</p>
-              <h6 class="card-subtitle mb-3 text-muted text-right">PyHUG 於 新竹麥烤杯</h6>
-              <div class="">
-                <a href="slides/20180304_intro_rdbms.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;下載投影片</a>
+
+          <!-- 2018/03/04 - Intro to DBMS -->
+          <div class="col">
+            <div class="card col p-4 mb-4">
+              <div class="card-block d-flex flex-column justify-content-center">
+                <h4 class="card-title">淺談 RDBMS 運作原理</h4>
+                <h5 class="card-subtitle mb-2 text-muted">2018/3/14</h5>
+                <p class="card-text text-left">這個演講將會簡單地帶大家入門 RDBMS 的運作原理。一開始會先介紹 Query 的一天，接著介紹開發 storage engine 時可能會要考慮甚麼。最後帶大家了解如何實作 RDBMS 最重要的 ACID 特性。</p>
+                <h6 class="card-subtitle mb-3 text-muted text-right">PyHUG 於 新竹麥烤杯</h6>
+                <div class="">
+                  <a href="slides/20180304_intro_rdbms.pdf" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;投影片</a>
+                </div>
               </div>
             </div>
           </div>
+
         </div>
       </div>
     </section>
@@ -214,10 +268,10 @@
     <!-- Projects -->
     <section id="projects">
       <div class="container text-center">
-        <h1 class="display-4 mb-4 text-center">專案</h1>
+        <h1 class="display-4 mb-5 text-center">專案</h1>
 
         <!-- Involving Project -->
-        <h2>合作專案</h2>
+        <h2>參與的大型專案</h2>
         <div class="row mb-5">
 
           <!-- VanillaDB -->
@@ -242,91 +296,119 @@
               <a class="btn btn-success" href="https://github.com/elasql" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
             </div>
           </div>
+
         </div>
 
         <!-- Personal Projects -->
-        <h2>個人專案</h2>
-        <div class="card-columns mt-5">
-          <!-- Tutorial Channel -->
-          <div class="card">
-            <img class="card-img-top" src="images/tutorial.png" alt="Tutorial Channel">
-            <div class="card-block">
-              <h4 class="card-title">Youtube 教學頻道</h4>
-              <h5><span class="badge badge-success">C#</span></h5>
-              <p class="card-text">一個具有許多關於電腦方面教學的 Youtube 頻道。目前主要以 <strong>C# 程式設計</strong> 為主</p>
-              <a class="btn btn-warning" href="http://slmtsite.blogspot.tw/" role="button"><i class="fab fa-google" aria-hidden="true"></i>&nbsp;&nbsp;部落格</a>
-              <a class="btn btn-danger" href="https://www.youtube.com/channel/UCmumrs_hb9s6eoVI29gLBgA" role="button"><i class="fab fa-youtube" aria-hidden="true"></i>&nbsp;&nbsp;頻道</a>
-              <a class="btn btn-primary" href="https://www.facebook.com/slmttutorialchannel/" role="button"><i class="fab fa-facebook" aria-hidden="true"></i>&nbsp;&nbsp;FB 粉絲團</a>
-            </div>
-          </div>
-
-          <!-- Google C++ Style Guide (zh-tw) -->
-          <div class="card">
-            <div class="card-block">
-              <h4 class="card-title">Google C++ 風格指南<br/>繁體中文版</h4>
-              <h5><span class="badge badge-primary">C++</span></h5>
-              <p class="card-text">繁體中文翻譯版的<a href="https://google.github.io/styleguide/cppguide.html">Google C++ 風格指南</a></p>
-              <a class="btn btn-info" href="http://www.slmt.tw/google-cpp-style-guide-zh-tw" role="button"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;線上電子書</a>
-              <a class="btn btn-success" href="https://github.com/SLMT/google-cpp-style-guide-zh-tw" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
-            </div>
-          </div>
-
-          <!-- US FM 3-21.8 (zh-tw) -->
-          <div class="card">
-            <div class="card-block">
-              <h4 class="card-title">美國陸軍戰場手冊 3-21.8<br/>繁體中文版</h4>
-              <p class="card-text">繁體中文翻譯版的「美國陸軍戰場手冊 3-21.8 - 步槍排與班」</p>
-              <a class="btn btn-info" href="http://www.slmt.tw/fm-3-21-8-zh-tw/" role="button"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;線上電子書</a>
-              <a class="btn btn-success" href="https://github.com/SLMT/fm-3-21-8-zh-tw" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
-            </div>
-          </div>
-
-          <!-- OGLdev Tutorials in Rust -->
-          <div class="card">
-              <img class="card-img-top" src="images/ogldev.png" alt="OGLDev Testing">
-            <div class="card-block">
-              <h4 class="card-title">以 Rust 撰寫的 OGLdev 教學</h4>
-              <h5><span class="badge badge-warning">Rust</span></h5>
-              <p class="card-text">一個為了 <a href="http://ogldev.atspace.co.uk/">OGLdev</a> 教學而使用 Rust 撰寫的範例集合</p>
-              <a class="btn btn-success" href="https://github.com/SLMT/rust-ogldev" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
-            </div>
-          </div>
-
-          <!-- Rust Snake -->
-          <div class="card">
-            <img class="card-img-top" src="images/rust-snake.png" alt="Rust Snake">
-            <div class="card-block">
-              <h4 class="card-title">Rust 貪吃蛇</h4>
-              <h5><span class="badge badge-warning">Rust</span></h5>
-              <p class="card-text">用 Rust 撰寫的貪吃蛇遊戲</p>
-              <a class="btn btn-success" href="https://github.com/SLMT/rust-snake" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
-            </div>
-          </div>
-
-          <!-- PTT BBS in Rust -->
-          <div class="card">
-            <div class="card-block">
-              <h4 class="card-title">Rust 批踢踢</h4>
-              <h5><span class="badge badge-warning">Rust</span></h5>
-              <p class="card-text">用 Rust 撰寫的<a href="https://github.com/ptt/pttbbs">批踢踢</a></p>
-              <a class="btn btn-success" href="https://github.com/SLMT/rust-ptt" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
-            </div>
-          </div>
+        <h2 class="mb-5">個人專案</h2>
+        <div class="row row-cols-1 row-cols-lg-3">
           
-          <!-- telnet-rs -->
-          <div class="card">
-            <div class="card-block">
-              <h4 class="card-title">telnet-rs</h4>
-              <h5><span class="badge badge-warning">Rust</span></h5>
-              <p class="card-text">以 Rust 撰寫的 Telnet 實作</p>
-              <a class="btn btn-primary" href="https://crates.io/crates/telnet" role="button"><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;&nbsp;crates.io</a>
-              <a class="btn btn-success" href="https://github.com/SLMT/telnet-rs" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
+          <!-- Column 1 -->
+          <div class="col">
+
+            <!-- Tutorial Channel -->
+            <div class="card col mb-4">
+              <img class="card-img-top" src="images/tutorial.png" alt="Tutorial Channel">
+              <div class="card-block p-3">
+                <h4 class="card-title">Youtube 教學頻道</h4>
+                <h5><span class="badge bg-success">C#</span></h5>
+                <p class="card-text">一個具有許多關於電腦方面教學的 Youtube 頻道。目前主要以 <strong>C# 程式設計</strong> 為主</p>
+                <a class="btn btn-warning" href="http://slmtsite.blogspot.tw/" role="button"><i class="fab fa-google" aria-hidden="true"></i>&nbsp;&nbsp;部落格</a>
+                <a class="btn btn-danger" href="https://www.youtube.com/channel/UCmumrs_hb9s6eoVI29gLBgA" role="button"><i class="fab fa-youtube" aria-hidden="true"></i>&nbsp;&nbsp;頻道</a>
+                <a class="btn btn-primary" href="https://www.facebook.com/slmttutorialchannel/" role="button"><i class="fab fa-facebook" aria-hidden="true"></i>&nbsp;&nbsp;FB 粉絲團</a>
+              </div>
+            </div>
+
+            <!-- Google C++ Style Guide (zh-tw) -->
+            <div class="card col mb-4">
+              <div class="card-block p-3">
+                <h4 class="card-title">Google C++ 風格指南<br/>繁體中文版</h4>
+                <h5><span class="badge bg-primary">C++</span></h5>
+                <p class="card-text">繁體中文翻譯版的 <a href="https://google.github.io/styleguide/cppguide.html">Google C++ 風格指南</a></p>
+                <a class="btn btn-info" href="http://www.slmt.tw/google-cpp-style-guide-zh-tw" role="button"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;線上電子書</a>
+                <a class="btn btn-success" href="https://github.com/SLMT/google-cpp-style-guide-zh-tw" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
+              </div>
+            </div>
+          
+            <!-- telnet-rs -->
+            <div class="card col mb-4">
+              <div class="card-block p-3">
+                <h4 class="card-title">telnet-rs</h4>
+                <h5><span class="badge bg-warning">Rust</span></h5>
+                <p class="card-text">以 Rust 撰寫的 Telnet 實作</p>
+                <a class="btn btn-primary" href="https://crates.io/crates/telnet" role="button"><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;&nbsp;crates.io</a>
+                <a class="btn btn-success" href="https://github.com/SLMT/telnet-rs" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
+              </div>
             </div>
           </div>
+
+          <!-- Column 2 -->
+          <div class="col">
+
+            <!-- OGLdev Tutorials in Rust -->
+            <div class="card col mb-4">
+              <img class="card-img-top" src="images/ogldev.png" alt="OGLDev Testing">
+              <div class="card-block p-3">
+                <h4 class="card-title">以 Rust 撰寫的 OGLdev 教學</h4>
+                <h5><span class="badge bg-warning">Rust</span></h5>
+                <p class="card-text">一個為了 <a href="http://ogldev.atspace.co.uk/">OGLdev</a> 教學而使用 Rust 撰寫的範例集合</p>
+                <a class="btn btn-success" href="https://github.com/SLMT/rust-ogldev" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
+              </div>
+            </div>
+
+            <!-- US FM 3-21.8 (zh-tw) -->
+            <div class="card col mb-4">
+              <div class="card-block p-3">
+                <h4 class="card-title">美國陸軍戰場手冊 3-21.8<br/>繁體中文版</h4>
+                <p class="card-text">繁體中文翻譯版的「美國陸軍戰場手冊 3-21.8 - 步槍排與班」</p>
+                <a class="btn btn-info" href="http://www.slmt.tw/fm-3-21-8-zh-tw/" role="button"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;線上電子書</a>
+                <a class="btn btn-success" href="https://github.com/SLMT/paper-plot-lib" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
+              </div>
+            </div>
+
+            <!-- Paper Plot Lib -->
+            <div class="card col mb-4">
+              <div class="card-block p-3">
+                <h4 class="card-title">Paper Plot Lib</h4>
+                <h5><span class="badge bg-info">Python</span></h5>
+                <p class="card-text">一個讓 matplotlib 更容易用於繪製論文實驗圖的函式庫</p>
+                <a class="btn btn-success" href="https://github.com/SLMT/paper-plot-lib" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- Column 3 -->
+          <div class="col">
+
+            <!-- Rust Snake -->
+            <div class="card col mb-4">
+              <img class="card-img-top" src="images/rust-snake.png" alt="Rust Snake">
+              <div class="card-block p-3">
+                <h4 class="card-title">Rust 貪吃蛇</h4>
+                <h5><span class="badge bg-warning">Rust</span></h5>
+                <p class="card-text">用 Rust 撰寫的貪吃蛇遊戲</p>
+                <a class="btn btn-success" href="https://github.com/SLMT/rust-snake" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
+              </div>
+            </div>
+
+            <!-- PTT BBS in Rust -->
+            <div class="card col mb-4">
+              <div class="card-block p-3">
+                <h4 class="card-title">Rust 批踢踢</h4>
+                <h5><span class="badge bg-warning">Rust</span></h5>
+                <p class="card-text">用 Rust 撰寫的<a href="https://github.com/ptt/pttbbs">批踢踢</a></p>
+                <a class="btn btn-success" href="https://github.com/SLMT/rust-ptt" role="button"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;程式碼</a>
+              </div>
+            </div>
+          
+          </div>
+
         </div>
+
       </div>
     </section>
-
+    
     <!-- Skills -->
     <section id="skills">
       <div class="container text-center">
@@ -474,12 +556,10 @@
 
     <!-- Footer -->
     <footer>
-      <p class="text-center py-5 my-0 bg-inverse text-white">Copyright &copy; Yu-Shan Lin, 2017-2019</p>
+      <p class="text-center py-3 my-0 bg-dark text-white">Copyright &copy; Yu-Shan Lin, 2017-2021</p>
     </footer>
-
-    <!-- Scripts for Bootstrap -->
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
   </body>
 </html>
